@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SUMAN\\GTT\\GTT_NEW (2)\\GTT_NEW\\GenericAPP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1568E228-F217-45EE-BC5A-FAF939DF13ED}|GenericAPP\\GenericAPP.csproj|d:\\suman\\gtt\\gtt_new (2)\\gtt_new\\genericapp\\genericapp\\main.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1568E228-F217-45EE-BC5A-FAF939DF13ED}|GenericAPP\\GenericAPP.csproj|solutionrelative:genericapp\\main.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1568E228-F217-45EE-BC5A-FAF939DF13ED}|GenericAPP\\GenericAPP.csproj|d:\\suman\\gtt\\gtt_new (2)\\gtt_new\\genericapp\\genericapp\\main.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{1568E228-F217-45EE-BC5A-FAF939DF13ED}|GenericAPP\\GenericAPP.csproj|solutionrelative:genericapp\\main.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1568E228-F217-45EE-BC5A-FAF939DF13ED}|GenericAPP\\GenericAPP.csproj|d:\\suman\\gtt\\gtt_new (2)\\gtt_new\\genericapp\\genericapp\\atozreports.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1568E228-F217-45EE-BC5A-FAF939DF13ED}|GenericAPP\\GenericAPP.csproj|solutionrelative:genericapp\\atozreports.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1568E228-F217-45EE-BC5A-FAF939DF13ED}|GenericAPP\\GenericAPP.csproj|d:\\suman\\gtt\\gtt_new (2)\\gtt_new\\genericapp\\genericapp\\atozreports.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1568E228-F217-45EE-BC5A-FAF939DF13ED}|GenericAPP\\GenericAPP.csproj|solutionrelative:genericapp\\atozreports.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1568E228-F217-45EE-BC5A-FAF939DF13ED}|GenericAPP\\GenericAPP.csproj|d:\\suman\\gtt\\gtt_new (2)\\gtt_new\\genericapp\\genericapp\\loginhistoryreport.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1568E228-F217-45EE-BC5A-FAF939DF13ED}|GenericAPP\\GenericAPP.csproj|solutionrelative:genericapp\\loginhistoryreport.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1568E228-F217-45EE-BC5A-FAF939DF13ED}|GenericAPP\\GenericAPP.csproj|d:\\suman\\gtt\\gtt_new (2)\\gtt_new\\genericapp\\genericapp\\loginhistoryreport.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1568E228-F217-45EE-BC5A-FAF939DF13ED}|GenericAPP\\GenericAPP.csproj|solutionrelative:genericapp\\loginhistoryreport.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1568E228-F217-45EE-BC5A-FAF939DF13ED}|GenericAPP\\GenericAPP.csproj|d:\\suman\\gtt\\gtt_new (2)\\gtt_new\\genericapp\\genericapp\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1568E228-F217-45EE-BC5A-FAF939DF13ED}|GenericAPP\\GenericAPP.csproj|solutionrelative:genericapp\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1568E228-F217-45EE-BC5A-FAF939DF13ED}|GenericAPP\\GenericAPP.csproj|d:\\suman\\gtt\\gtt_new (2)\\gtt_new\\genericapp\\genericapp\\dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1568E228-F217-45EE-BC5A-FAF939DF13ED}|GenericAPP\\GenericAPP.csproj|solutionrelative:genericapp\\dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AtoZReports.aspx.cs",
+              "DocumentMoniker": "D:\\SUMAN\\GTT\\GTT_NEW (2)\\GTT_NEW\\GenericAPP\\GenericAPP\\AtoZReports.aspx.cs",
+              "RelativeDocumentMoniker": "GenericAPP\\AtoZReports.aspx.cs",
+              "ToolTip": "D:\\SUMAN\\GTT\\GTT_NEW (2)\\GTT_NEW\\GenericAPP\\GenericAPP\\AtoZReports.aspx.cs",
+              "RelativeToolTip": "GenericAPP\\AtoZReports.aspx.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T16:12:33.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AtoZReports.aspx",
+              "DocumentMoniker": "D:\\SUMAN\\GTT\\GTT_NEW (2)\\GTT_NEW\\GenericAPP\\GenericAPP\\AtoZReports.aspx",
+              "RelativeDocumentMoniker": "GenericAPP\\AtoZReports.aspx",
+              "ToolTip": "D:\\SUMAN\\GTT\\GTT_NEW (2)\\GTT_NEW\\GenericAPP\\GenericAPP\\AtoZReports.aspx",
+              "RelativeToolTip": "GenericAPP\\AtoZReports.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-07T16:53:01.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dashboard.aspx.cs",
+              "DocumentMoniker": "D:\\SUMAN\\GTT\\GTT_NEW (2)\\GTT_NEW\\GenericAPP\\GenericAPP\\Dashboard.aspx.cs",
+              "RelativeDocumentMoniker": "GenericAPP\\Dashboard.aspx.cs",
+              "ToolTip": "D:\\SUMAN\\GTT\\GTT_NEW (2)\\GTT_NEW\\GenericAPP\\GenericAPP\\Dashboard.aspx.cs",
+              "RelativeToolTip": "GenericAPP\\Dashboard.aspx.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T16:38:52.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dashboard.aspx",
+              "DocumentMoniker": "D:\\SUMAN\\GTT\\GTT_NEW (2)\\GTT_NEW\\GenericAPP\\GenericAPP\\Dashboard.aspx",
+              "RelativeDocumentMoniker": "GenericAPP\\Dashboard.aspx",
+              "ToolTip": "D:\\SUMAN\\GTT\\GTT_NEW (2)\\GTT_NEW\\GenericAPP\\GenericAPP\\Dashboard.aspx",
+              "RelativeToolTip": "GenericAPP\\Dashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-07T16:37:57.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.Master.cs",
+              "DocumentMoniker": "D:\\SUMAN\\GTT\\GTT_NEW (2)\\GTT_NEW\\GenericAPP\\GenericAPP\\Main.Master.cs",
+              "RelativeDocumentMoniker": "GenericAPP\\Main.Master.cs",
+              "ToolTip": "D:\\SUMAN\\GTT\\GTT_NEW (2)\\GTT_NEW\\GenericAPP\\GenericAPP\\Main.Master.cs",
+              "RelativeToolTip": "GenericAPP\\Main.Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T15:59:03.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.Master",
+              "DocumentMoniker": "D:\\SUMAN\\GTT\\GTT_NEW (2)\\GTT_NEW\\GenericAPP\\GenericAPP\\Main.Master",
+              "RelativeDocumentMoniker": "GenericAPP\\Main.Master",
+              "ToolTip": "D:\\SUMAN\\GTT\\GTT_NEW (2)\\GTT_NEW\\GenericAPP\\GenericAPP\\Main.Master",
+              "RelativeToolTip": "GenericAPP\\Main.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-07T15:55:33.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginHistoryReport.aspx.cs",
+              "DocumentMoniker": "D:\\SUMAN\\GTT\\GTT_NEW (2)\\GTT_NEW\\GenericAPP\\GenericAPP\\LoginHistoryReport.aspx.cs",
+              "RelativeDocumentMoniker": "GenericAPP\\LoginHistoryReport.aspx.cs",
+              "ToolTip": "D:\\SUMAN\\GTT\\GTT_NEW (2)\\GTT_NEW\\GenericAPP\\GenericAPP\\LoginHistoryReport.aspx.cs",
+              "RelativeToolTip": "GenericAPP\\LoginHistoryReport.aspx.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwCkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T15:36:10.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginHistoryReport.aspx",
+              "DocumentMoniker": "D:\\SUMAN\\GTT\\GTT_NEW (2)\\GTT_NEW\\GenericAPP\\GenericAPP\\LoginHistoryReport.aspx",
+              "RelativeDocumentMoniker": "GenericAPP\\LoginHistoryReport.aspx",
+              "ToolTip": "D:\\SUMAN\\GTT\\GTT_NEW (2)\\GTT_NEW\\GenericAPP\\GenericAPP\\LoginHistoryReport.aspx",
+              "RelativeToolTip": "GenericAPP\\LoginHistoryReport.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-05T10:06:10.026Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,878 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- https://go.microsoft.com/fwlink/?LinkID=208121. -->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\PROJECTS\DEPLOYMENT\GTTN_APP</_PublishTargetUrl>
+    <History>True|2025-09-03T12:27:53.4924695Z||;False|2025-09-03T16:45:14.2445649+05:30||;True|2025-08-20T18:21:35.9990806+05:30||;True|2025-08-11T17:29:22.0740461+05:30||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="ActivateSim.aspx">
+      <publishTime>09/02/2025 19:15:12</publishTime>
+    </File>
+    <File Include="ActivationReport.aspx">
+      <publishTime>08/20/2025 14:11:06</publishTime>
+    </File>
+    <File Include="AddDealer.aspx">
+      <publishTime>08/05/2025 10:36:13</publishTime>
+    </File>
+    <File Include="AddFund.aspx">
+      <publishTime>09/02/2025 13:16:31</publishTime>
+    </File>
+    <File Include="AddNewSim.aspx">
+      <publishTime>08/05/2025 15:11:22</publishTime>
+    </File>
+    <File Include="AddTariffGroup.aspx">
+      <publishTime>08/09/2025 23:43:36</publishTime>
+    </File>
+    <File Include="AddUser.aspx">
+      <publishTime>08/05/2025 09:59:12</publishTime>
+    </File>
+    <File Include="AtoZReports.aspx">
+      <publishTime>08/20/2025 17:25:24</publishTime>
+    </File>
+    <File Include="bin/DocumentFormat.OpenXml.dll">
+      <publishTime>03/06/2025 03:25:00</publishTime>
+    </File>
+    <File Include="bin/DocumentFormat.OpenXml.Framework.dll">
+      <publishTime>03/06/2025 03:25:00</publishTime>
+    </File>
+    <File Include="bin/EPPlus.dll">
+      <publishTime>07/22/2025 13:44:14</publishTime>
+    </File>
+    <File Include="bin/EPPlus.Interfaces.dll">
+      <publishTime>02/14/2025 19:44:28</publishTime>
+    </File>
+    <File Include="bin/GenericAPP.dll">
+      <publishTime>09/03/2025 17:57:45</publishTime>
+    </File>
+    <File Include="bin/GenericAPP.pdb">
+      <publishTime>09/03/2025 17:57:45</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="bin/Microsoft.IO.RecyclableMemoryStream.dll">
+      <publishTime>06/12/2024 01:53:46</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>07/29/2025 12:34:22</publishTime>
+    </File>
+    <File Include="bin/QRCoder.dll">
+      <publishTime>06/30/2024 16:20:06</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe.config">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>07/29/2025 12:34:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>07/29/2025 12:34:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>07/29/2025 12:34:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>07/29/2025 12:34:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>07/29/2025 12:34:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>07/29/2025 12:34:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>07/29/2025 12:34:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>07/29/2025 12:34:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Managed.Core.targets">
+      <publishTime>07/29/2025 12:34:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>07/29/2025 12:34:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Win32.Primitives.dll">
+      <publishTime>07/29/2025 12:34:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>07/29/2025 12:34:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>07/29/2025 12:34:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Console.dll">
+      <publishTime>07/29/2025 12:34:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.DiagnosticSource.dll">
+      <publishTime>07/29/2025 12:34:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.FileVersionInfo.dll">
+      <publishTime>07/29/2025 12:34:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>07/29/2025 12:34:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Globalization.Calendars.dll">
+      <publishTime>07/29/2025 12:34:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Compression.dll">
+      <publishTime>07/29/2025 12:34:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Compression.ZipFile.dll">
+      <publishTime>07/29/2025 12:34:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>07/29/2025 12:34:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>07/29/2025 12:34:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Net.Http.dll">
+      <publishTime>07/29/2025 12:34:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Net.Sockets.dll">
+      <publishTime>07/29/2025 12:34:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>07/29/2025 12:34:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll">
+      <publishTime>07/29/2025 12:34:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Algorithms.dll">
+      <publishTime>07/29/2025 12:34:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Encoding.dll">
+      <publishTime>07/29/2025 12:34:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Primitives.dll">
+      <publishTime>07/29/2025 12:34:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.X509Certificates.dll">
+      <publishTime>07/29/2025 12:34:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Text.Encoding.CodePages.dll">
+      <publishTime>07/29/2025 12:34:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Threading.Tasks.Extensions.dll">
+      <publishTime>07/29/2025 12:34:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.ValueTuple.dll">
+      <publishTime>07/29/2025 12:34:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.ReaderWriter.dll">
+      <publishTime>07/29/2025 12:34:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XmlDocument.dll">
+      <publishTime>07/29/2025 12:34:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.dll">
+      <publishTime>07/29/2025 12:34:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.XDocument.dll">
+      <publishTime>07/29/2025 12:34:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>07/29/2025 12:34:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>07/29/2025 12:34:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>07/29/2025 12:34:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>07/29/2025 12:34:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>07/29/2025 12:34:22</publishTime>
+    </File>
+    <File Include="bin/System.Buffers.dll">
+      <publishTime>02/19/2020 15:35:18</publishTime>
+    </File>
+    <File Include="bin/System.ComponentModel.Annotations.dll">
+      <publishTime>05/15/2018 18:59:36</publishTime>
+    </File>
+    <File Include="bin/System.Memory.dll">
+      <publishTime>05/08/2022 09:01:02</publishTime>
+    </File>
+    <File Include="bin/System.Numerics.Vectors.dll">
+      <publishTime>05/15/2018 18:59:44</publishTime>
+    </File>
+    <File Include="bin/System.Runtime.CompilerServices.Unsafe.dll">
+      <publishTime>02/19/2020 15:35:16</publishTime>
+    </File>
+    <File Include="bin/System.Security.Cryptography.Xml.dll">
+      <publishTime>09/17/2024 04:44:38</publishTime>
+    </File>
+    <File Include="CheckStatus.aspx">
+      <publishTime>08/19/2025 20:10:31</publishTime>
+    </File>
+    <File Include="CustomerList.aspx">
+      <publishTime>08/05/2025 08:20:49</publishTime>
+    </File>
+    <File Include="Dashboard.aspx">
+      <publishTime>09/03/2025 16:36:25</publishTime>
+    </File>
+    <File Include="DealerList.aspx">
+      <publishTime>08/05/2025 09:54:29</publishTime>
+    </File>
+    <File Include="Design/assets/css/demo.css">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="Design/assets/img/avatars/1.png">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="Design/assets/img/avatars/5.png">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="Design/assets/img/avatars/6.png">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="Design/assets/img/avatars/7.png">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="Design/assets/img/backgrounds/18.jpg">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="Design/assets/img/ComingSoon.jpg">
+      <publishTime>08/11/2025 16:54:09</publishTime>
+    </File>
+    <File Include="Design/assets/img/elements/1.jpg">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="Design/assets/img/elements/11.jpg">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="Design/assets/img/elements/12.jpg">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="Design/assets/img/elements/13.jpg">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="Design/assets/img/elements/17.jpg">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="Design/assets/img/elements/18.jpg">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="Design/assets/img/elements/19.jpg">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="Design/assets/img/elements/2.jpg">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="Design/assets/img/elements/20.jpg">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="Design/assets/img/elements/3.jpg">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="Design/assets/img/elements/4.jpg">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="Design/assets/img/elements/5.jpg">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="Design/assets/img/elements/7.jpg">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="Design/assets/img/expresscheckout_buttons.png">
+      <publishTime>07/30/2025 13:24:28</publishTime>
+    </File>
+    <File Include="Design/assets/img/favicon/favicon.ico">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="Design/assets/img/icons/brands/asana.png">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="Design/assets/img/icons/brands/behance.png">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="Design/assets/img/icons/brands/dribbble.png">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="Design/assets/img/icons/brands/facebook.png">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="Design/assets/img/icons/brands/github.png">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="Design/assets/img/icons/brands/google.png">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="Design/assets/img/icons/brands/instagram.png">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="Design/assets/img/icons/brands/mailchimp.png">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="Design/assets/img/icons/brands/slack.png">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="Design/assets/img/icons/brands/twitter.png">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="Design/assets/img/icons/unicons/cc-primary.png">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="Design/assets/img/icons/unicons/cc-success.png">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="Design/assets/img/icons/unicons/cc-warning.png">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="Design/assets/img/icons/unicons/chart-success.png">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="Design/assets/img/icons/unicons/chart.png">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="Design/assets/img/icons/unicons/paypal.png">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="Design/assets/img/icons/unicons/wallet-info.png">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="Design/assets/img/icons/unicons/wallet.png">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="Design/assets/img/illustrations/girl-doing-yoga-light.png">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="Design/assets/img/illustrations/man-with-laptop-light.png">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="Design/assets/img/illustrations/page-misc-error-light.png">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="Design/assets/img/layouts/layout-container-light.png">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="Design/assets/img/layouts/layout-fluid-light.png">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="Design/assets/img/layouts/layout-without-menu-light.png">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="Design/assets/img/layouts/layout-without-navbar-light.png">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="Design/assets/img/Logo.png">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="Design/assets/js/config.js">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="Design/assets/js/dashboards-analytics.js">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="Design/assets/js/extended-ui-perfect-scrollbar.js">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="Design/assets/js/form-basic-inputs.js">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="Design/assets/js/main.js">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="Design/assets/js/pages-account-settings-account.js">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="Design/assets/js/ui-modals.js">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="Design/assets/js/ui-popover.js">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="Design/assets/js/ui-toasts.js">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="Design/assets/vendor/css/core.css">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="Design/assets/vendor/css/pages/page-account-settings.css">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="Design/assets/vendor/css/pages/page-auth.css">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="Design/assets/vendor/css/pages/page-icons.css">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="Design/assets/vendor/css/pages/page-misc.css">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="Design/assets/vendor/css/theme-default.css">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="Design/assets/vendor/fonts/boxicons.css">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="Design/assets/vendor/fonts/boxicons/boxicons.eot">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/assets/vendor/fonts/boxicons/boxicons.svg">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/assets/vendor/fonts/boxicons/boxicons.ttf">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/assets/vendor/fonts/boxicons/boxicons.woff">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/assets/vendor/fonts/boxicons/boxicons.woff2">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/assets/vendor/js/bootstrap.js">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/assets/vendor/js/helpers.js">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/assets/vendor/js/menu.js">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/assets/vendor/libs/apex-charts/apex-charts.css">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/assets/vendor/libs/apex-charts/apexcharts.js">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/assets/vendor/libs/highlight/highlight-github.css">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/assets/vendor/libs/highlight/highlight.css">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/assets/vendor/libs/highlight/highlight.js">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/assets/vendor/libs/jquery/jquery.js">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/assets/vendor/libs/masonry/masonry.js">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.css">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.js">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/assets/vendor/libs/popper/popper.js">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/EmailTemplates/DealerCreateEmail.html">
+      <publishTime>07/31/2025 15:04:45</publishTime>
+    </File>
+    <File Include="Design/EmailTemplates/eSimActivationEmail.html">
+      <publishTime>09/03/2025 17:19:17</publishTime>
+    </File>
+    <File Include="Design/EmailTemplates/ForgotPassword.html">
+      <publishTime>07/31/2025 15:04:45</publishTime>
+    </File>
+    <File Include="Design/EmailTemplates/pSimActivationEmail.html">
+      <publishTime>08/22/2025 13:58:04</publishTime>
+    </File>
+    <File Include="Design/EmailTemplates/qR.jpg">
+      <publishTime>09/03/2025 17:11:22</publishTime>
+    </File>
+    <File Include="Design/EmailTemplates/UserCreateEmail.html">
+      <publishTime>07/31/2025 15:04:45</publishTime>
+    </File>
+    <File Include="Design/fonts/boxicons.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/Format/BlankSimFormat.csv">
+      <publishTime>08/05/2025 13:03:49</publishTime>
+    </File>
+    <File Include="Design/js/bootstrap.js">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/js/helpers.js">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/js/menu.js">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/libs/apex-charts/apex-charts.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/libs/apex-charts/apexcharts.js">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/libs/highlight/highlight-github.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/libs/highlight/highlight.js">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/libs/highlight/highlight.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/libs/jquery/jquery.js">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/libs/masonry/masonry.js">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/libs/perfect-scrollbar/perfect-scrollbar.js">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/libs/perfect-scrollbar/perfect-scrollbar.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/libs/popper/popper.js">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/core.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/pages/page-account-settings.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/pages/page-auth.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/pages/page-icons.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/pages/page-misc.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/theme-default.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_bootstrap-extended.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_bootstrap-extended/forms/_floating-labels.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_bootstrap-extended/forms/_form-control.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_bootstrap-extended/forms/_form-range.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_bootstrap-extended/forms/_form-select.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_bootstrap-extended/forms/_input-group.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_bootstrap-extended/forms/_labels.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_bootstrap-extended/forms/_validation.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_bootstrap-extended/mixins/_alert.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_bootstrap-extended/mixins/_badge.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_bootstrap-extended/mixins/_buttons.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_bootstrap-extended/mixins/_caret.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_bootstrap-extended/mixins/_dropdown.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_bootstrap-extended/mixins/_forms.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_bootstrap-extended/mixins/_list-group.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_bootstrap-extended/mixins/_misc.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_bootstrap-extended/mixins/_navs.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_bootstrap-extended/mixins/_pagination.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_bootstrap-extended/mixins/_progress.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_bootstrap-extended/mixins/_table-variants.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_bootstrap-extended/mixins/_toasts.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_bootstrap-extended/_accordion.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_bootstrap-extended/_alert.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_bootstrap-extended/_badge.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_bootstrap-extended/_breadcrumb.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_bootstrap-extended/_button-group.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_bootstrap-extended/_buttons.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_bootstrap-extended/_card.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_bootstrap-extended/_carousel.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_bootstrap-extended/_close.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_bootstrap-extended/_dropdown.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_bootstrap-extended/_forms.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_bootstrap-extended/_functions.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_bootstrap-extended/_include.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_bootstrap-extended/_list-group.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_bootstrap-extended/_mixins.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_bootstrap-extended/_modal.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_bootstrap-extended/_nav.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_bootstrap-extended/_navbar.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_bootstrap-extended/_offcanvas.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_bootstrap-extended/_pagination.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_bootstrap-extended/_popover.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_bootstrap-extended/_progress.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_bootstrap-extended/_reboot.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_bootstrap-extended/_root.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_bootstrap-extended/_spinners.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_bootstrap-extended/_tables.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_bootstrap-extended/_toasts.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_bootstrap-extended/_tooltip.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_bootstrap-extended/_type.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_bootstrap-extended/_utilities-ltr.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_bootstrap-extended/_utilities.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_bootstrap-extended/_variables.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_bootstrap.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_colors.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_components.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_components/mixins/_app-brand.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_components/mixins/_avatar.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_components/mixins/_footer.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_components/mixins/_menu.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_components/mixins/_misc.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_components/mixins/_navbar.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_components/mixins/_text-divider.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_components/_app-brand.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_components/_avatar.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_components/_base.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_components/_common.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_components/_footer.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_components/_include.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_components/_layout.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_components/_menu.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_components/_mixins.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_components/_text-divider.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_components/_variables.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_custom-variables/_bootstrap-extended.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_custom-variables/_components.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_custom-variables/_libs.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_custom-variables/_pages.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_custom-variables/_support.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_theme/_common.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/scss/_theme/_theme.scss">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/tasks/build.js">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="Design/tasks/prod.js">
+      <publishTime>07/29/2025 12:34:21</publishTime>
+    </File>
+    <File Include="eSimActivation.aspx">
+      <publishTime>08/11/2025 17:09:52</publishTime>
+    </File>
+    <File Include="Extension.aspx">
+      <publishTime>09/02/2025 19:21:05</publishTime>
+    </File>
+    <File Include="ExtensionReports.aspx">
+      <publishTime>08/20/2025 14:11:06</publishTime>
+    </File>
+    <File Include="Forgot.aspx">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="ForgotPassword.aspx">
+      <publishTime>07/30/2025 17:06:32</publishTime>
+    </File>
+    <File Include="FutureActivationReports.aspx">
+      <publishTime>08/20/2025 14:11:06</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>07/29/2025 12:34:20</publishTime>
+    </File>
+    <File Include="Login.aspx">
+      <publishTime>08/09/2025 21:52:08</publishTime>
+    </File>
+    <File Include="LoginHistoryReport.aspx">
+      <publishTime>08/10/2025 12:34:45</publishTime>
+    </File>
+    <File Include="Logout.aspx">
+      <publishTime>07/30/2025 16:50:48</publishTime>
+    </File>
+    <File Include="Main.Master">
+      <publishTime>09/02/2025 19:16:32</publishTime>
+    </File>
+    <File Include="PaymentHistoryReport.aspx">
+      <publishTime>08/10/2025 13:46:01</publishTime>
+    </File>
+    <File Include="Print.aspx">
+      <publishTime>09/03/2025 17:50:42</publishTime>
+    </File>
+    <File Include="pSimActivation.aspx">
+      <publishTime>08/11/2025 15:34:44</publishTime>
+    </File>
+    <File Include="PurchaseSims.aspx">
+      <publishTime>08/06/2025 13:49:19</publishTime>
+    </File>
+    <File Include="SimList.aspx">
+      <publishTime>09/02/2025 14:31:44</publishTime>
+    </File>
+    <File Include="TariffGroupList.aspx">
+      <publishTime>08/08/2025 19:18:10</publishTime>
+    </File>
+    <File Include="UserList.aspx">
+      <publishTime>08/05/2025 09:57:16</publishTime>
+    </File>
+    <File Include="ViewTariffGroup.aspx">
+      <publishTime>08/09/2025 23:07:42</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>09/03/2025 17:57:52</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,840 @@
+PlanID,PlanName,Network,PackageID,PlanPrice,ActivationPrice,ExtensionPrice
+1,Asia 16 Destinations 12 Days Unlimited Data(1GB/day high speed),SKYGO,D2212221204387202195,47.27,1,1
+2,Asia 16 Destinations 12 Days Unlimited Data(2GB/day high speed),SKYGO,D2212221208012444949,47.27,2,2
+3,Asia 16 Destinations 12 Days Unlimited Data(500MB/day high speed),SKYGO,D2212221202118022965,45.64,3,3
+4,Asia 16 Destinations 15 Days Unlimited Data(1GB/day high speed),SKYGO,D2212221206199951986,44.01,4,4
+5,Asia 16 Destinations 15 Days Unlimited Data(2GB/day high speed),SKYGO,D2212221208395801279,42.38,5,5
+6,Asia 16 Destinations 15 Days Unlimited Data(500MB/day high speed),SKYGO,D2212221202434770811,40.75,6,6
+793,Vietnam 6 Days Unlimited Data(500MB/day high speed),SKYGO,D2312272354039091787,10.06,7,7
+794,Vietnam 7 Days Unlimited Data(1GB/day high speed),SKYGO,D2312272357111436349,8.03,8,8
+795,Vietnam 7 Days Unlimited Data(2GB/day high speed),SKYGO,D2312280000010780946,7.01,9,9
+796,Vietnam 7 Days Unlimited Data(500MB/day high speed),SKYGO,D2312272354221993669,5.1,10,10
+787,Vietnam 4 Days Unlimited Data(500MB/day high speed),SKYGO,D2312272347174927107,1.99,11,11
+788,Vietnam 5 Days Unlimited Data(1GB/day high speed),SKYGO,D2312272355540249894,1.27,12,12
+789,Vietnam 5 Days Unlimited Data(2GB/day high speed),SKYGO,D2312272359072873128,1.91,13,13
+790,Vietnam 5 Days Unlimited Data(500MB/day high speed),SKYGO,D2312272353450116521,1.34,14,14
+791,Vietnam 6 Days Unlimited Data(1GB/day high speed),SKYGO,D2312272356310025470,0.96,15,15
+792,Vietnam 6 Days Unlimited Data(2GB/day high speed),SKYGO,D2312272359353428284,12.1,16,16
+781,Vietnam 10 Days Unlimited Data(500MB/day high speed),SKYGO,D2312272354373623921,16.56,17,17
+782,Vietnam 3 Days Unlimited Data(1GB/day high speed),SKYGO,D2312272355216885936,6.37,18,18
+783,Vietnam 3 Days Unlimited Data(2GB/day high speed),SKYGO,D2312272358106762786,3.57,19,19
+784,Vietnam 3 Days Unlimited Data(500MB/day high speed),SKYGO,D2312272346449486975,3.26,20,20
+785,Vietnam 4 Days Unlimited Data(1GB/day high speed),SKYGO,D2312272355400533593,2.93,21,21
+786,Vietnam 4 Days Unlimited Data(2GB/day high speed),SKYGO,D2312272358361556824,2.55,22,22
+775,USA/Canada/Mexico 30 Days Unlimited Data(500MB/day high speed),SKYGO,D181029075646_215328,3.5,23,23
+776,USA/Canada/Mexico 7 Days Unlimited Data(1GB/day high speed),SKYGO,D2206091118158677818,3.35,24,24
+777,USA/Canada/Mexico 7 Days Unlimited Data(2GB/day high speed),SKYGO,D2206291909256195940,3.12,25,25
+778,USA/Canada/Mexico 7 Days Unlimited Data(500MB/day high speed),SKYGO,D181029074947_215300,10.32,26,26
+779,Vietnam 10 Days Unlimited Data(1GB/day high speed),SKYGO,D2312272357388887159,2.39,27,27
+780,Vietnam 10 Days Unlimited Data(2GB/day high speed),SKYGO,D2312280000295691007,5.16,28,28
+769,USA/Canada/Mexico 15 Days Unlimited Data(500MB/day high speed),SKYGO,D181029075347_215318,3.12,29,29
+770,USA/Canada/Mexico 20 Days Unlimited Data(1GB/day high speed),SKYGO,D2206291907323030471,13.63,30,30
+771,USA/Canada/Mexico 20 Days Unlimited Data(2GB/day high speed),SKYGO,D2206291911183379323,9.81,31,31
+772,USA/Canada/Mexico 20 Days Unlimited Data(500MB/day high speed),SKYGO,D181029075545_215323,4.2,32,32
+773,USA/Canada/Mexico 30 Days Unlimited Data(1GB/day high speed),SKYGO,D2206091119350589636,2.17,33,33
+774,USA/Canada/Mexico 30 Days Unlimited Data(2GB/day high speed),SKYGO,D2206291911447523252,3.67,34,34
+763,USA/Canada/Mexico 10 Days Unlimited Data(500MB/day high speed),SKYGO,D181029075127_215305,10.51,35,35
+764,USA/Canada/Mexico 12 Days Unlimited Data(1GB/day high speed),SKYGO,D2206291906432072367,7.64,36,36
+765,USA/Canada/Mexico 12 Days Unlimited Data(2GB/day high speed),SKYGO,D2206291910234719163,5.99,37,37
+766,USA/Canada/Mexico 12 Days Unlimited Data(500MB/day high speed),SKYGO,D181029075231_215312,4.55,38,38
+767,USA/Canada/Mexico 15 Days Unlimited Data(1GB/day high speed),SKYGO,D2206091119091070123,4.08,39,39
+768,USA/Canada/Mexico 15 Days Unlimited Data(2GB/day high speed),SKYGO,D2206291910482445815,3.59,40,40
+757,USA/Canada 30 Days Unlimited Data(3GB/day high speed),SKYGO,D2503311738507760373,6.03,41,41
+758,USA/Canada 7 Days Unlimited Data(1GB/day high speed),SKYGO,D2503311725241695518,5.5,42,42
+759,USA/Canada 7 Days Unlimited Data(2GB/day high speed),SKYGO,D2503311728368434803,4.65,43,43
+760,USA/Canada 7 Days Unlimited Data(3GB/day high speed),SKYGO,D2503311734364540818,18.15,44,44
+761,USA/Canada/Mexico 10 Days Unlimited Data(1GB/day high speed),SKYGO,D2206091118433144508,15.1,45,45
+762,USA/Canada/Mexico 10 Days Unlimited Data(2GB/day high speed),SKYGO,D2206291910012200492,12.04,46,46
+751,USA/Canada 15 Days Unlimited Data(3GB/day high speed),SKYGO,D2503311738167507268,19.24,47,47
+752,USA/Canada 20 Days Unlimited Data(1GB/day high speed),SKYGO,D2503311727130418425,17.83,48,48
+753,USA/Canada 20 Days Unlimited Data(2GB/day high speed),SKYGO,D2503311733236710436,14.78,49,49
+754,USA/Canada 20 Days Unlimited Data(3GB/day high speed),SKYGO,D2503311738351370957,12.04,50,50
+755,USA/Canada 30 Days Unlimited Data(1GB/day high speed),SKYGO,D2503311727490802485,8.43,51,51
+756,USA/Canada 30 Days Unlimited Data(2GB/day high speed),SKYGO,D2503311733463724823,7.22,52,52
+745,USA/Canada 10 Days Unlimited Data(3GB/day high speed),SKYGO,D2503311736030398067,21.15,53,53
+746,USA/Canada 12 Days Unlimited Data(1GB/day high speed),SKYGO,D2503311726081403999,19.62,54,54
+747,USA/Canada 12 Days Unlimited Data(2GB/day high speed),SKYGO,D2503311732427832271,16.31,55,55
+748,USA/Canada 12 Days Unlimited Data(3GB/day high speed),SKYGO,D2503311736275954434,11.34,56,56
+749,USA/Canada 15 Days Unlimited Data(1GB/day high speed),SKYGO,D2503311726561017020,35.8,57,57
+750,USA/Canada 15 Days Unlimited Data(2GB/day high speed),SKYGO,D2503311733074277193,25.22,58,58
+739,USA 8 Days Unlimited Data(500MB/day high speed),SKYGO,D2507041714418140969,3.57,59,59
+740,USA 9 Days Unlimited Data(1GB/day high speed),SKYGO,D2507041721539076377,2.55,60,60
+741,USA 9 Days Unlimited Data(2GB/day high speed),SKYGO,D2507041835298493969,1.91,61,61
+742,USA 9 Days Unlimited Data(500MB/day high speed),SKYGO,D2507041714554858169,1.27,62,62
+743,USA/Canada 10 Days Unlimited Data(1GB/day high speed),SKYGO,D2503311725474185731,39.36,63,63
+744,USA/Canada 10 Days Unlimited Data(2GB/day high speed),SKYGO,D2503311731423786932,27.77,64,64
+733,USA 6 Days Unlimited Data(500MB/day high speed),SKYGO,D2507041714043389499,25.78,65,65
+734,USA 7 Days Unlimited Data(1GB/day high speed),SKYGO,D2205171827326402772,23.44,66,66
+735,USA 7 Days Unlimited Data(2GB/day high speed),SKYGO,D2206291902418913108,16.41,67,67
+736,USA 7 Days Unlimited Data(500MB/day high speed),SKYGO,D181015081353_162957,11.72,68,68
+737,USA 8 Days Unlimited Data(1GB/day high speed),SKYGO,D2507041721425275756,7.03,69,69
+738,USA 8 Days Unlimited Data(2GB/day high speed),SKYGO,D2507041835183109834,2.34,70,70
+727,USA 4 Days Unlimited Data(500MB/day high speed),SKYGO,D2507041713356812416,24.76,71,71
+728,USA 5 Days Unlimited Data(1GB/day high speed),SKYGO,D2507041721198710399,17.43,72,72
+729,USA 5 Days Unlimited Data(2GB/day high speed),SKYGO,D2507041834474444919,12.64,73,73
+730,USA 5 Days Unlimited Data(500MB/day high speed),SKYGO,D2507041713509140816,7.64,74,74
+731,USA 6 Days Unlimited Data(1GB/day high speed),SKYGO,D2507041721306735572,2.65,75,75
+732,USA 6 Days Unlimited Data(2GB/day high speed),SKYGO,D2507041835061850091,37.2,76,76
+721,USA 30 Days 30GB Data Package,SKYGO,D2303231433147733762,13.38,77,77
+722,USA 30 Days Unlimited Data(1GB/day high speed),SKYGO,D2205171830364242429,11.21,78,78
+723,USA 30 Days Unlimited Data(2GB/day high speed),SKYGO,D2206291904591156033,13.18,79,79
+724,USA 30 Days Unlimited Data(500MB/day high speed),SKYGO,D181029043449_215186,20.13,80,80
+725,USA 4 Days Unlimited Data(1GB/day high speed),SKYGO,D2507041721075687576,38.11,81,81
+726,USA 4 Days Unlimited Data(2GB/day high speed),SKYGO,D2507041832417880286,26.7,82,82
+715,USA 29 Days Unlimited Data(500MB/day high speed),SKYGO,D2507041719283045374,7.64,83,83
+716,USA 3 Days Unlimited Data(1GB/day high speed),SKYGO,D2507041720552435797,4.46,84,84
+717,USA 3 Days Unlimited Data(2GB/day high speed),SKYGO,D2507041832287586177,2.39,85,85
+718,USA 3 Days Unlimited Data(500MB/day high speed),SKYGO,D2507041713215312816,2.29,86,86
+719,USA 30 Days 10GB Data Package,SKYGO,D2206171621470143480,10.96,87,87
+720,USA 30 Days 20GB Data Package,SKYGO,D2303231434357696199,6.37,88,88
+709,USA 27 Days Unlimited Data(500MB/day high speed),SKYGO,D2507041719044508269,1.44,89,89
+710,USA 28 Days Unlimited Data(1GB/day high speed),SKYGO,D2507041730389116059,8.84,90,90
+711,USA 28 Days Unlimited Data(2GB/day high speed),SKYGO,D2507041839090644368,3.82,91,91
+712,USA 28 Days Unlimited Data(500MB/day high speed),SKYGO,D2507041719164790317,26.88,92,92
+713,USA 29 Days Unlimited Data(1GB/day high speed),SKYGO,D2507041730564394103,8.92,93,93
+714,USA 29 Days Unlimited Data(2GB/day high speed),SKYGO,D2507041839314898204,16.43,94,94
+703,USA 25 Days Unlimited Data(500MB/day high speed),SKYGO,D2507041718353637552,3.75,95,95
+704,USA 26 Days Unlimited Data(1GB/day high speed),SKYGO,D2507041730119807530,3.21,96,96
+705,USA 26 Days Unlimited Data(2GB/day high speed),SKYGO,D2507041838446179260,2.68,97,97
+706,USA 26 Days Unlimited Data(500MB/day high speed),SKYGO,D2507041718475020234,2.45,98,98
+707,USA 27 Days Unlimited Data(1GB/day high speed),SKYGO,D2507041730263563756,2.06,99,99
+708,USA 27 Days Unlimited Data(2GB/day high speed),SKYGO,D2507041838566156896,2.23,100,100
+697,USA 23 Days Unlimited Data(500MB/day high speed),SKYGO,D2507041718111124922,6.24,101,101
+698,USA 24 Days Unlimited Data(1GB/day high speed),SKYGO,D2507041729405406703,5.35,102,102
+699,USA 24 Days Unlimited Data(2GB/day high speed),SKYGO,D2507041838148111441,4.46,103,103
+700,USA 24 Days Unlimited Data(500MB/day high speed),SKYGO,D2507041718228452764,4.08,104,104
+701,USA 25 Days Unlimited Data(1GB/day high speed),SKYGO,D2507041730001429835,3.44,105,105
+702,USA 25 Days Unlimited Data(2GB/day high speed),SKYGO,D2507041838323040278,5.35,106,106
+691,USA 21 Days Unlimited Data(500MB/day high speed),SKYGO,D2507041717450545835,11.46,107,107
+692,USA 22 Days Unlimited Data(1GB/day high speed),SKYGO,D2507041729139135281,7.75,108,108
+693,USA 22 Days Unlimited Data(2GB/day high speed),SKYGO,D2507041837408965982,17.2,109,109
+694,USA 22 Days Unlimited Data(500MB/day high speed),SKYGO,D2507041717573389321,9.17,110,110
+695,USA 23 Days Unlimited Data(1GB/day high speed),SKYGO,D2507041729263098828,8.22,111,111
+696,USA 23 Days Unlimited Data(2GB/day high speed),SKYGO,D2507041837590758810,8.92,112,112
+685,USA 2 Days Unlimited Data(500MB/day high speed),SKYGO,D2507041713014983867,42.99,113,113
+686,USA 20 Days Unlimited Data(1GB/day high speed),SKYGO,D2205171830031545477,32.97,114,114
+687,USA 20 Days Unlimited Data(2GB/day high speed),SKYGO,D2206291904352751421,27.24,115,115
+688,USA 20 Days Unlimited Data(500MB/day high speed),SKYGO,D181029041914_215168,22.65,116,116
+689,USA 21 Days Unlimited Data(1GB/day high speed),SKYGO,D2507041729013942960,18.06,117,117
+690,USA 21 Days Unlimited Data(2GB/day high speed),SKYGO,D2507041837270238206,15.77,118,118
+679,USA 18 Days Unlimited Data(500MB/day high speed),SKYGO,D2507041716372296546,30.47,119,119
+680,USA 19 Days Unlimited Data(1GB/day high speed),SKYGO,D2507041725460309409,7.01,120,120
+681,USA 19 Days Unlimited Data(2GB/day high speed),SKYGO,D2507041837120232847,26.75,121,121
+682,USA 19 Days Unlimited Data(500MB/day high speed),SKYGO,D2507041716492714590,19.11,122,122
+683,USA 2 Days Unlimited Data(1GB/day high speed),SKYGO,D2507041720414366845,14.65,123,123
+684,USA 2 Days Unlimited Data(2GB/day high speed),SKYGO,D2507041832137499354,60.19,124,124
+673,USA 16 Days Unlimited Data(500MB/day high speed),SKYGO,D2507041716126983277,63.31,125,125
+674,USA 17 Days Unlimited Data(1GB/day high speed),SKYGO,D2507041725215341206,32.23,126,126
+675,USA 17 Days Unlimited Data(2GB/day high speed),SKYGO,D2507041836461178710,14.01,127,127
+676,USA 17 Days Unlimited Data(500MB/day high speed),SKYGO,D2507041716245122962,35.06,128,128
+677,USA 18 Days Unlimited Data(1GB/day high speed),SKYGO,D2507041725345015294,30.88,129,129
+678,USA 18 Days Unlimited Data(2GB/day high speed),SKYGO,D2507041836585211745,34.45,130,130
+667,USA 15 Days 5GB Data Package,SKYGO,D2206171620153385794,15.48,131,131
+668,USA 15 Days Unlimited Data(1GB/day high speed),SKYGO,D2205171829289586082,1.91,132,132
+669,USA 15 Days Unlimited Data(2GB/day high speed),SKYGO,D2206291904065180225,0.96,133,133
+670,USA 15 Days Unlimited Data(500MB/day high speed),SKYGO,D181029041818_215161,21.02,134,134
+671,USA 16 Days Unlimited Data(1GB/day high speed),SKYGO,D2507041725063977416,4.78,135,135
+672,USA 16 Days Unlimited Data(2GB/day high speed),SKYGO,D2507041836343978752,185.1,136,136
+661,USA 13 Days Unlimited Data(1GB/day high speed),SKYGO,D2507041722553806643,3.52,137,137
+662,USA 13 Days Unlimited Data(2GB/day high speed),SKYGO,D2507041836086587855,53.69,138,138
+663,USA 13 Days Unlimited Data(500MB/day high speed),SKYGO,D2507041715469501520,37.83,139,139
+664,USA 14 Days Unlimited Data(1GB/day high speed),SKYGO,D2507041724451474748,28.85,140,140
+665,USA 14 Days Unlimited Data(2GB/day high speed),SKYGO,D2507041836214451081,26.75,141,141
+666,USA 14 Days Unlimited Data(500MB/day high speed),SKYGO,D2507041715599278525,22.17,142,142
+655,USA 11 Days Unlimited Data(1GB/day high speed),SKYGO,D2507041722408755125,45.71,143,143
+656,USA 11 Days Unlimited Data(2GB/day high speed),SKYGO,D2507041835524217762,38.68,144,144
+657,USA 11 Days Unlimited Data(500MB/day high speed),SKYGO,D2507041715118961734,35.16,145,145
+658,USA 12 Days Unlimited Data(1GB/day high speed),SKYGO,D2205171828535163757,24.61,146,146
+659,USA 12 Days Unlimited Data(2GB/day high speed),SKYGO,D2206291903377239037,17.58,147,147
+660,USA 12 Days Unlimited Data(500MB/day high speed),SKYGO,D181029041726_215154,10.55,148,148
+649,USA 1 Day Unlimited Data(1GB/day high speed),SKYGO,D2507041720295613429,57.17,149,149
+650,USA 1 Day Unlimited Data(2GB/day high speed),SKYGO,D2507041826476270362,40.05,150,150
+651,USA 1 Day Unlimited Data(500MB/day high speed),SKYGO,D2507041650495160668,37.15,151,151
+652,USA 10 Days Unlimited Data(1GB/day high speed),SKYGO,D2205171828191665024,26.14,152,152
+653,USA 10 Days Unlimited Data(2GB/day high speed),SKYGO,D2206291903110126531,55.8,153,153
+654,USA 10 Days Unlimited Data(500MB/day high speed),SKYGO,D181029041609_215147,51.67,154,154
+643,UAE 30 Days Unlimited Data (1GB high speed),SKYGO,D210329033516_952078,11.85,155,155
+644,UAE 30 Days Unlimited Data (2GB high speed),SKYGO,D210611094501_582402,8.79,156,156
+645,UAE 30 Days Unlimited Data (30GB high speed),SKYGO,D210611095020_582420,59.04,157,157
+646,UAE 30 Days Unlimited Data (3GB high speed),SKYGO,D210624095141_589763,31.72,158,158
+647,UAE 30 Days Unlimited Data (500MB high speed),SKYGO,D210624094503_589730,24.46,159,159
+648,UAE 30 Days Unlimited Data (5GB high speed),SKYGO,D210611094740_582410,17.01,160,160
+637,Thailand 15 Days 5GB Data Package,SKYGO,D2212221155592679204,12.23,161,161
+638,Thailand 15 Days 7GB Data Package,SKYGO,D2212221156382897274,6.6,162,162
+639,Thailand 20 Days 10GB Data Package,SKYGO,D2212221157337157797,5.35,163,163
+640,Thailand 7 Days 3GB Data Package,SKYGO,D2212221154566990983,2.87,164,164
+641,Turkey 30 Days 10GB Data Package,SKYGO,D2309211835402303433,24.65,165,165
+642,UAE 30 Days Unlimited Data (10GB high speed),SKYGO,D210611094910_582415,14.71,166,166
+631,Taiwan China 5 Days Unlimited Data(1GB/day high speed),SKYGO,D2206171457336644963,12.61,167,167
+632,Taiwan China 5 Days Unlimited Data(2GB/day high speed),SKYGO,D2206291517577491644,13.38,168,168
+633,Taiwan China 5 Days Unlimited Data(500MB/day high speed),SKYGO,D181029081629_215363,9.36,169,169
+634,Taiwan China 7 Days Unlimited Data(1GB/day high speed),SKYGO,D190114030944_750525,13.38,170,170
+635,Taiwan China 7 Days Unlimited Data(2GB/day high speed),SKYGO,D2206291518246152259,9.36,171,171
+636,Taiwan China 7 Days Unlimited Data(500MB/day high speed),SKYGO,D181029081721_215368,6.69,172,172
+625,Taiwan China 10 Days Unlimited Data(1GB/day high speed),SKYGO,D2206171458073774365,2.55,173,173
+626,Taiwan China 10 Days Unlimited Data(2GB/day high speed),SKYGO,D2206291518491015637,16.56,174,174
+627,Taiwan China 10 Days Unlimited Data(500MB/day high speed),SKYGO,D181029081827_215372,22.29,175,175
+628,Taiwan China 3 Days Unlimited Data(1GB/day high speed),SKYGO,D2206291515400610193,11.85,176,176
+629,Taiwan China 3 Days Unlimited Data(2GB/day high speed),SKYGO,D2206291516497995173,21.91,177,177
+630,Taiwan China 3 Days Unlimited Data(500MB/day high speed),SKYGO,D181029081532_215358,24.65,178,178
+619,South Korea 7 Days Unlimited Data(1GB/day high speed),SKYGO,D181024110539_205265,2.38,179,179
+620,South Korea 7 Days Unlimited Data(2GB/day high speed),SKYGO,D210105084957_917954,2.18,180,180
+621,South Korea 7 Days Unlimited Data(500MB/day high speed),SKYGO,D180724110131_50997,1.95,181,181
+622,South Korea 8 Days Unlimited Data (2GB/day high speed),SKYGO,D210105085140_917958,1.69,182,182
+623,South Korea 8 Days Unlimited Data(1GB/day high speed),SKYGO,D181024110649_205269,1.32,183,183
+624,South Korea 8 Days Unlimited Data(500MB/day high speed),SKYGO,D180724110212_51001,0.85,184,184
+613,South Korea 30 Days Unlimited Data(2GB/day high speed),SKYGO,D210105090010_917979,1.91,185,185
+614,South Korea 30 Days Unlimited Data(500MB/day high speed),SKYGO,D210216095256_935408,3.59,186,186
+615,South Korea 5 Days Unlimited Data(1GB/day high speed),SKYGO,D181024110406_205260,3.44,187,187
+616,South Korea 5 Days Unlimited Data(2GB/day high speed),SKYGO,D210105084824_917949,2.87,188,188
+617,South Korea 5 Days Unlimited Data(500MB/day high speed),SKYGO,D180724110045_50993,2.01,189,189
+618,South Korea 7 Days 3GB Data Package,SKYGO,D2406300138097863781,1.44,190,190
+607,South Korea 3 Days Unlimited Data(1GB/day high speed),SKYGO,D181015075232_162925,1.49,191,191
+608,South Korea 3 Days Unlimited Data(2GB/day high speed),SKYGO,D210105084631_917945,0.96,192,192
+609,South Korea 3 Days Unlimited Data(500MB/day high speed),SKYGO,D180724105954_50989,8.03,193,193
+610,South Korea 30 Days 15GB Data Package,SKYGO,D2406300141191955686,5.73,194,194
+611,South Korea 30 Days 30GB Data Package,SKYGO,D2406300141564197765,4.31,195,195
+612,South Korea 30 Days Unlimited Data(1GB/day high speed),SKYGO,D2206291742096643626,2.87,196,196
+601,South Korea 15 Days Unlimited Data(2GB/day high speed),SKYGO,D210105085627_917970,19.78,197,197
+602,South Korea 15 Days Unlimited Data(500MB/day high speed),SKYGO,D210216094304_935396,40.13,198,198
+603,South Korea 20 Days 10GB Data Package,SKYGO,D2406300140320147355,2.45,199,199
+604,South Korea 20 Days Unlimited Data(1GB/day high speed),SKYGO,D2206291741400752734,2.33,200,200
+605,South Korea 20 Days Unlimited Data(2GB/day high speed),SKYGO,D210105085824_917975,2.23,201,201
+606,South Korea 20 Days Unlimited Data(500MB/day high speed),SKYGO,D210216095118_935404,2.08,202,202
+595,South Korea 12 Days Unlimited Data(1GB/day high speed),SKYGO,D181024110833_205278,24.65,203,203
+596,South Korea 12 Days Unlimited Data(2GB/day high speed),SKYGO,D210105085459_917966,16.43,204,204
+597,South Korea 12 Days Unlimited Data(500MB/day high speed),SKYGO,D180724110407_51009,11.46,205,205
+598,South Korea 15 Days 5GB Data Package,SKYGO,D2406300138501533363,9.55,206,206
+599,South Korea 15 Days 7GB Data Package,SKYGO,D2406300139228768059,6.69,207,207
+600,South Korea 15 Days Unlimited Data(1GB/day high speed),SKYGO,D2206291740591578241,60.19,208,208
+589,South America 8 Desintaions 7 Days Unlimited Data(1GB/day high speed),SKYGO,D2404031213010518789,3.25,209,209
+590,South America 8 Desintaions 7 Days Unlimited Data(2GB/day high speed),SKYGO,D2404031214448357348,36.98,210,210
+591,South America 8 Desintaions 7 Days Unlimited Data(500MB/day high speed),SKYGO,D2404031210226737497,24.65,211,211
+592,South Korea 10 Days Unlimited Data(1GB/day high speed),SKYGO,D181024110743_205273,17.2,212,212
+593,South Korea 10 Days Unlimited Data(2GB/day high speed),SKYGO,D210105085324_917962,14.33,213,213
+594,South Korea 10 Days Unlimited Data(500MB/day high speed),SKYGO,D180724110308_51005,10.04,214,214
+583,South America 8 Desintaions 30 Days Unlimited Data(1GB/day high speed),SKYGO,D2404031213486570202,4.88,215,215
+584,South America 8 Desintaions 30 Days Unlimited Data(2GB/day high speed),SKYGO,D2404031215315038594,24.84,216,216
+585,South America 8 Desintaions 30 Days Unlimited Data(500MB/day high speed),SKYGO,D2404031211172035310,20.45,217,217
+586,South America 8 Desintaions 5 Days Unlimited Data(1GB/day high speed),SKYGO,D2404031212486801615,14.71,218,218
+587,South America 8 Desintaions 5 Days Unlimited Data(2GB/day high speed),SKYGO,D2404031214315532898,9.55,219,219
+588,South America 8 Desintaions 5 Days Unlimited Data(500MB/day high speed),SKYGO,D2404031210062193114,6.31,220,220
+577,South America 8 Desintaions 15 Days Unlimited Data(1GB/day high speed),SKYGO,D2404031213254297691,4.78,221,221
+578,South America 8 Desintaions 15 Days Unlimited Data(2GB/day high speed),SKYGO,D2404031215086886884,37.26,222,222
+579,South America 8 Desintaions 15 Days Unlimited Data(500MB/day high speed),SKYGO,D2404031210506288539,30.68,223,223
+580,South America 8 Desintaions 20 Days Unlimited Data(1GB/day high speed),SKYGO,D2404031213365262561,22.08,224,224
+581,South America 8 Desintaions 20 Days Unlimited Data(2GB/day high speed),SKYGO,D2404031215208679205,14.33,225,225
+582,South America 8 Desintaions 20 Days Unlimited Data(500MB/day high speed),SKYGO,D2404031211046731495,9.46,226,226
+571,Singapore 20 Days 10GB Data Package,SKYGO,D2212221132566993669,14.62,227,227
+572,Singapore 7 Days 3GB Data Package,SKYGO,D2212221130561091538,13.26,228,228
+573,South Africa 30 Days 10GB Data Package,SKYGO,D2309211900259705589,9.9,229,229
+574,South America 8 Desintaions 10 Days Unlimited Data(1GB/day high speed),SKYGO,D2404031213148743416,7.17,230,230
+575,South America 8 Desintaions 10 Days Unlimited Data(2GB/day high speed),SKYGO,D2404031214563569617,13.57,231,231
+576,South America 8 Desintaions 10 Days Unlimited Data(500MB/day high speed),SKYGO,D2404031210358569469,9.75,232,232
+565,Sing/Malay/Thai 6 Days Unlimited Data(3GB/day high speed),SKYGO,D2503311659508498862,3.59,233,233
+566,Sing/Malay/Thai 7 Days Unlimited Data(1GB/day high speed),SKYGO,D181024094018_205183,40.13,234,234
+567,Sing/Malay/Thai 7 Days Unlimited Data(2GB/day high speed),SKYGO,D2206291824430990083,28.66,235,235
+568,Sing/Malay/Thai 7 Days Unlimited Data(3GB/day high speed),SKYGO,D2503311700043758457,21.97,236,236
+569,Singapore 15 Days 5GB Data Package,SKYGO,D2206221630580796205,20.36,237,237
+570,Singapore 15 Days 7GB Data Package,SKYGO,D2212221131598341252,18.34,238,238
+559,Sing/Malay/Thai 4 Days Unlimited Data(3GB/day high speed),SKYGO,D2503311659191771349,6.83,239,239
+560,Sing/Malay/Thai 5 Days Unlimited Data(1GB/day high speed),SKYGO,D181024093455_205171,6.11,240,240
+561,Sing/Malay/Thai 5 Days Unlimited Data(2GB/day high speed),SKYGO,D2206291823520758862,5.39,241,241
+562,Sing/Malay/Thai 5 Days Unlimited Data(3GB/day high speed),SKYGO,D2503311659324018110,4.69,242,242
+563,Sing/Malay/Thai 6 Days Unlimited Data(1GB/day high speed),SKYGO,D181024093901_205177,2.87,243,243
+564,Sing/Malay/Thai 6 Days Unlimited Data(2GB/day high speed),SKYGO,D2206291824200018960,1.44,244,244
+553,Sing/Malay/Thai 3 Days Unlimited Data(3GB/day high speed),SKYGO,D2503311658238818220,9.17,245,245
+554,Sing/Malay/Thai 30 Days Unlimited Data(1GB/day high speed),SKYGO,D2212221236116233234,7.75,246,246
+555,Sing/Malay/Thai 30 Days Unlimited Data(2GB/day high speed),SKYGO,D2212221238536179715,8.03,247,247
+556,Sing/Malay/Thai 30 Days Unlimited Data(3GB/day high speed),SKYGO,D2503311706018920486,6.11,248,248
+557,Sing/Malay/Thai 4 Days Unlimited Data(1GB/day high speed),SKYGO,D181024093336_205164,5.16,249,249
+558,Sing/Malay/Thai 4 Days Unlimited Data(2GB/day high speed),SKYGO,D2206291823042966188,8.98,250,250
+547,Sing/Malay/Thai 2 Days Unlimited Data(3GB/day high speed),SKYGO,D2503311658040433713,6.11,251,251
+548,Sing/Malay/Thai 20 Days Unlimited Data(1GB/day high speed),SKYGO,D2212221235464238480,5.16,252,252
+549,Sing/Malay/Thai 20 Days Unlimited Data(2GB/day high speed),SKYGO,D2212221238309221490,20.06,253,253
+550,Sing/Malay/Thai 20 Days Unlimited Data(3GB/day high speed),SKYGO,D2503311705388947842,14.05,254,254
+551,Sing/Malay/Thai 3 Days Unlimited Data(1GB/day high speed),SKYGO,D181015075529_162936,12.04,255,255
+552,Sing/Malay/Thai 3 Days Unlimited Data(2GB/day high speed),SKYGO,D2206291818472726242,10.04,256,256
+541,Sing/Malay/Thai 12 Days Unlimited Data(3GB/day high speed),SKYGO,D2503311702270365385,12.04,257,257
+542,Sing/Malay/Thai 15 Days Unlimited Data(1GB/day high speed),SKYGO,D2212221235159023761,10.04,258,258
+543,Sing/Malay/Thai 15 Days Unlimited Data(2GB/day high speed),SKYGO,D2212221237564359328,9.17,259,259
+544,Sing/Malay/Thai 15 Days Unlimited Data(3GB/day high speed),SKYGO,D2503311704262378266,7.75,260,260
+545,Sing/Malay/Thai 2 Days Unlimited Data(1GB/day high speed),SKYGO,D2205061710502699903,8.03,261,261
+546,Sing/Malay/Thai 2 Days Unlimited Data(2GB/day high speed),SKYGO,D2206291820078931713,6.69,262,262
+535,Sing/Malay/Thai 1 Days Unlimited Data(1GB/day high speed),SKYGO,D2205061710169311692,13.18,263,263
+536,Sing/Malay/Thai 10 Days Unlimited Data(1GB/day high speed),SKYGO,D181024103112_205203,10.32,264,264
+537,Sing/Malay/Thai 10 Days Unlimited Data(2GB/day high speed),SKYGO,D2206291825113639405,19.49,265,265
+538,Sing/Malay/Thai 10 Days Unlimited Data(3GB/day high speed),SKYGO,D2503311701293157520,6.88,266,266
+539,Sing/Malay/Thai 12 Days Unlimited Data(1GB/day high speed),SKYGO,D2212221234447454611,20.06,267,267
+540,Sing/Malay/Thai 12 Days Unlimited Data(2GB/day high speed),SKYGO,D2212221237217756042,14.05,268,268
+529,Saudi Arabia 45 Days 5GB Data Package,SKYGO,D2503311757405915322,33.25,269,269
+530,Saudi Arabia 45 Days Unlimited Data (1GB/day high speed),SKYGO,D2503311808355696848,23.22,270,270
+531,Saudi Arabia 45 Days Unlimited Data (2GB/day high speed),SKYGO,D2503311810340672062,36.98,271,271
+532,Saudi Arabia 45 Days Unlimited Data (500MB/day high speed),SKYGO,D2503311807234190925,29.24,272,272
+533,Sing/Malay/Thai 1 Day Unlimited Data(2GB/day high speed),SKYGO,D2206291819485257836,22.08,273,273
+534,Sing/Malay/Thai 1 Day Unlimited Data(3GB/day high speed),SKYGO,D2503311657384066177,17.77,274,274
+523,Philippines 8 Days Unlimited Data(500MB/day high speed),SKYGO,D2406300244061274442,41.66,275,275
+524,Saudi Arabia 45 Days 10GB Data Package,SKYGO,D2503311758101534481,29.43,276,276
+525,Saudi Arabia 45 Days 1GB Data Package,SKYGO,D2503311756414078130,80.55,277,277
+526,Saudi Arabia 45 Days 20GB Data Package,SKYGO,D2503311758497968139,56.75,278,278
+527,Saudi Arabia 45 Days 25GB Data Package,SKYGO,D2503311759227904799,43.29,279,279
+528,Saudi Arabia 45 Days 3GB Data Package,SKYGO,D2503311757147706165,40.13,280,280
+517,Philippines 7 Days 3GB Data Package,SKYGO,D2406300309272736669,88.57,281,281
+518,Philippines 7 Days Unlimited Data(1GB/day high speed),SKYGO,D2406300251087579776,62.48,282,282
+519,Philippines 7 Days Unlimited Data(2GB/day high speed),SKYGO,D2406300257006961655,47.58,283,283
+520,Philippines 7 Days Unlimited Data(500MB/day high speed),SKYGO,D2406300243400899613,44.14,284,284
+521,Philippines 8 Days Unlimited Data(1GB/day high speed),SKYGO,D2406300251510238292,36.69,285,285
+522,Philippines 8 Days Unlimited Data(2GB/day high speed),SKYGO,D2406300258066620674,25.52,286,286
+511,Philippines 5 Days Unlimited Data(1GB/day high speed),SKYGO,D2406300250344054244,10.57,287,287
+512,Philippines 5 Days Unlimited Data(2GB/day high speed),SKYGO,D2406300256274726139,8.41,288,288
+513,Philippines 5 Days Unlimited Data(500MB/day high speed),SKYGO,D2406300242468437167,6.75,289,289
+514,Philippines 6 Days Unlimited Data(1GB/day high speed),SKYGO,D2406300250516200352,33.63,290,290
+515,Philippines 6 Days Unlimited Data(2GB/day high speed),SKYGO,D2406300256409853487,15.86,291,291
+516,Philippines 6 Days Unlimited Data(500MB/day high speed),SKYGO,D2406300243109433793,10.13,292,292
+505,Philippines 30 Days Unlimited Data(1GB/day high speed),SKYGO,D2406300254300066877,36.98,293,293
+506,Philippines 30 Days Unlimited Data(2GB/day high speed),SKYGO,D2406300303281757643,23.8,294,294
+507,Philippines 30 Days Unlimited Data(500MB/day high speed),SKYGO,D2406300248570804702,18.92,295,295
+508,Philippines 4 Days Unlimited Data(1GB/day high speed),SKYGO,D2406300250140849637,15.2,296,296
+509,Philippines 4 Days Unlimited Data(2GB/day high speed),SKYGO,D2406300256103475507,22.42,297,297
+510,Philippines 4 Days Unlimited Data(500MB/day high speed),SKYGO,D2406300241231877829,16.43,298,298
+499,Philippines 20 Days 10GB Data Package,SKYGO,D2406300312356219930,52.79,299,299
+500,Philippines 3 Days Unlimited Data(1GB/day high speed),SKYGO,D2406300249488749285,36.92,300,300
+501,Philippines 3 Days Unlimited Data(2GB/day high speed),SKYGO,D2406300255528742358,26.37,301,301
+502,Philippines 3 Days Unlimited Data(500MB/day high speed),SKYGO,D2406300227591691062,15.82,302,302
+503,Philippines 30 Days 20GB Data Package,SKYGO,D2406300313143236008,5.27,303,303
+504,Philippines 30 Days 30GB Data Package,SKYGO,D2406300313598444264,50.45,304,304
+493,Philippines 12 Days Unlimited Data(500MB/day high speed),SKYGO,D2406300247488797532,11.46,305,305
+494,Philippines 15 Days 5GB Data Package,SKYGO,D2406300310567270693,3.97,306,306
+495,Philippines 15 Days 7GB Data Package,SKYGO,D2406300311362691861,83.69,307,307
+496,Philippines 15 Days Unlimited Data(1GB/day high speed),SKYGO,D2406300253347947441,77.5,308,308
+497,Philippines 15 Days Unlimited Data(2GB/day high speed),SKYGO,D2406300259558012137,68.56,309,309
+498,Philippines 15 Days Unlimited Data(500MB/day high speed),SKYGO,D2406300248160264172,58.01,310,310
+487,Multi regional(not include Mainland China) 7 Days (500MB/day),SKYGO,D181030043319_227719,28.43,311,311
+488,Philippines 10 Days Unlimited Data(1GB/day high speed),SKYGO,D2406300252518938280,17.2,312,312
+489,Philippines 10 Days Unlimited Data(2GB/day high speed),SKYGO,D2406300259161664424,5.96,313,313
+490,Philippines 10 Days Unlimited Data(500MB/day high speed),SKYGO,D2406300245170081814,52.59,314,314
+491,Philippines 12 Days Unlimited Data(1GB/day high speed),SKYGO,D2406300253152508824,46.32,315,315
+492,Philippines 12 Days Unlimited Data(2GB/day high speed),SKYGO,D2406300259316677585,18.96,316,316
+481,Multi regional(not include Mainland China) 30 Days (500MB/day),SKYGO,D181030062003_228049,85.76,317,317
+482,Multi regional(not include Mainland China) 5 Days (1GB/day),SKYGO,D2205171902194598628,78.88,318,318
+483,Multi regional(not include Mainland China) 5 Days (2GB/day),SKYGO,D2206301059342263262,69.48,319,319
+484,Multi regional(not include Mainland China) 5 Days (500MB/day),SKYGO,D181030042539_227624,60.08,320,320
+485,Multi regional(not include Mainland China) 7 Days (1GB/day),SKYGO,D2205171902519779100,55.72,321,321
+486,Multi regional(not include Mainland China) 7 Days (2GB/day),SKYGO,D2206301100122278918,39.21,322,322
+475,Multi regional(not include Mainland China) 25 Days (500MB/day),SKYGO,D210521020847_567890,13.57,323,323
+476,Multi regional(not include Mainland China) 3 Day (1GB/day),SKYGO,D2205171901409406497,9.9,324,324
+477,Multi regional(not include Mainland China) 3 Days (2GB/day),SKYGO,D2206301058020979270,7.17,325,325
+478,Multi regional(not include Mainland China) 3 Days (500MB/day),SKYGO,D181030041513_227530,6.6,326,326
+479,Multi regional(not include Mainland China) 30 Days (1GB/day),SKYGO,D2205171905428070570,13.26,327,327
+480,Multi regional(not include Mainland China) 30 Days (2GB/day),SKYGO,D2206301103268430586,3.3,328,328
+469,Multi regional(not include Mainland China) 15 Days (500MB/day),SKYGO,D181030060952_227953,14.62,329,329
+470,Multi regional(not include Mainland China) 20 Days (1GB/day),SKYGO,D2205171904426262385,9.75,330,330
+471,Multi regional(not include Mainland China) 20 Days (2GB/day),SKYGO,D2206301102116254489,16.69,331,331
+472,Multi regional(not include Mainland China) 20 Days (500MB/day),SKYGO,D210520111201_567505,4.78,332,332
+473,Multi regional(not include Mainland China) 25 Days (1GB/day),SKYGO,D2205171905123822954,8.84,333,333
+474,Multi regional(not include Mainland China) 25 Days (2GB/day),SKYGO,D2206301102507299017,20.36,334,334
+463,Multi regional(not include Mainland China) 1 Day (500MB/day),SKYGO,D181029112059_227175,15.54,335,335
+464,Multi regional(not include Mainland China) 10 Days (1GB/day),SKYGO,D2205171903285254520,12.23,336,336
+465,Multi regional(not include Mainland China) 10 Days (2GB/day),SKYGO,D2206301100537072952,9.04,337,337
+466,Multi regional(not include Mainland China) 10 Days (500MB/day),SKYGO,D181030044052_227812,5.73,338,338
+467,Multi regional(not include Mainland China) 15 Days (1GB/day),SKYGO,D2205171904079201878,18.34,339,339
+468,Multi regional(not include Mainland China) 15 Days (2GB/day),SKYGO,D2206301101255910272,12.23,340,340
+457,Multi regional(include Mainland China) 5 Days (500MB/day),SKYGO,D181031181258_229560,28.79,341,341
+458,Multi regional(include Mainland China) 7 Days (1GB/day),SKYGO,D2206091105276234237,20.13,342,342
+459,Multi regional(include Mainland China) 7 Days (2GB/day),SKYGO,D2206301205486118193,8.66,343,343
+460,Multi regional(include Mainland China) 7 Days (500MB/day),SKYGO,D181031181914_229650,5.1,344,344
+461,Multi regional(not include Mainland China) 1 Day (1GB/day),SKYGO,D2205171900191062908,3.57,345,345
+462,Multi regional(not include Mainland China) 1 Day (2GB/day),SKYGO,D2206301053577995254,1.91,346,346
+451,Multi regional(include Mainland China) 3 Days (500MB/day),SKYGO,D181031180455_229470,15.13,347,347
+452,Multi regional(include Mainland China) 30 Days (1GB/day),SKYGO,D2206091109242038213,10.76,348,348
+453,Multi regional(include Mainland China) 30 Days (2GB/day),SKYGO,D2206301208289772531,14.27,349,349
+454,Multi regional(include Mainland China) 30 Days (500MB/day),SKYGO,D181031183714_229920,9.94,350,350
+455,Multi regional(include Mainland China) 5 Days (1GB/day),SKYGO,D2206301156230194956,7.13,351,351
+456,Multi regional(include Mainland China) 5 Days (2GB/day),SKYGO,D2206301205165738953,4.2,352,352
+445,Multi regional(include Mainland China) 20 Days (500MB/day),SKYGO,D210521035722_568094,41.81,353,353
+446,Multi regional(include Mainland China) 25 Days (1GB/day),SKYGO,D2206301157335495089,27.62,354,354
+447,Multi regional(include Mainland China) 25 Days (2GB/day),SKYGO,D2206301207564086363,22.7,355,355
+448,Multi regional(include Mainland China) 25 Days (500MB/day),SKYGO,D210521075722_568297,16.15,356,356
+449,Multi regional(include Mainland China) 3 Days (1GB/day),SKYGO,D2206301155366462370,27.87,357,357
+450,Multi regional(include Mainland China) 3 Days (2GB/day),SKYGO,D2206301204294905930,18.41,358,358
+439,Multi regional(include Mainland China) 10 Days (500MB/day),SKYGO,D181031182542_229740,8.97,359,359
+440,Multi regional(include Mainland China) 15 Days (1GB/day),SKYGO,D2206091108433606607,7.17,360,360
+441,Multi regional(include Mainland China) 15 Days (2GB/day),SKYGO,D2206301206528368501,62.71,361,361
+442,Multi regional(include Mainland China) 15 Days (500MB/day),SKYGO,D181031183135_229830,41.43,362,362
+443,Multi regional(include Mainland China) 20 Days (1GB/day),SKYGO,D2206301157034705599,34.05,363,363
+444,Multi regional(include Mainland China) 20 Days (2GB/day),SKYGO,D2206301207302789206,24.23,364,364
+433,Middle East and Africa 9 Countries 7 Days Unlimited Data(500MB/day high speed),SKYGO,D2409301703316275854,26.92,365,365
+434,Multi regional(include Mainland China) 1 Day (1GB/day),SKYGO,D2206301155076223899,17.94,366,366
+435,Multi regional(include Mainland China) 1 Day (2GB/day),SKYGO,D2206301203373572854,13.45,367,367
+436,Multi regional(include Mainland China) 1 Day (500MB/day),SKYGO,D181031175604_229378,10.76,368,368
+437,Multi regional(include Mainland China) 10 Days (1GB/day),SKYGO,D2206091107307032864,17.94,369,369
+438,Multi regional(include Mainland China) 10 Days (2GB/day),SKYGO,D2206301206197251946,11.95,370,370
+427,Middle East and Africa 9 Countries 30 Days Unlimited Data(500MB/day high speed),SKYGO,D2409301704438980133,15.58,371,371
+428,Middle East and Africa 9 Countries 5 Days Unlimited Data(1GB/day high speed),SKYGO,D2409301705280009971,12.98,372,372
+429,Middle East and Africa 9 Countries 5 Days Unlimited Data(2GB/day high speed),SKYGO,D2409301707277828103,10.39,373,373
+430,Middle East and Africa 9 Countries 5 Days Unlimited Data(500MB/day high speed),SKYGO,D2409301700516117555,9.1,374,374
+431,Middle East and Africa 9 Countries 7 Days Unlimited Data(1GB/day high speed),SKYGO,D2409301705449737787,7.43,375,375
+432,Middle East and Africa 9 Countries 7 Days Unlimited Data(2GB/day high speed),SKYGO,D2409301707538718417,4.46,376,376
+421,Middle East and Africa 9 Countries 20 Days Unlimited Data(1GB/day high speed),SKYGO,D2409301706436177900,5.62,377,377
+422,Middle East and Africa 9 Countries 20 Days Unlimited Data(2GB/day high speed),SKYGO,D2409301708472281118,4.82,378,378
+423,Middle East and Africa 9 Countries 20 Days Unlimited Data(500MB/day high speed),SKYGO,D2409301704309735842,4.01,379,379
+424,Middle East and Africa 9 Countries 30 Days 20GB Data Package,SKYGO,D2409301739250194063,3.67,380,380
+425,Middle East and Africa 9 Countries 30 Days Unlimited Data(1GB/day high speed),SKYGO,D2409301707000944515,3.1,381,381
+426,Middle East and Africa 9 Countries 30 Days Unlimited Data(2GB/day high speed),SKYGO,D2409301709042412089,34.39,382,382
+415,Middle East and Africa 9 Countries 10 Days Unlimited Data(500MB/day high speed),SKYGO,D2409301704032662902,22.93,383,383
+416,Middle East and Africa 9 Countries 15 Days 5GB Data Package,SKYGO,D2409301738000868635,19.11,384,384
+417,Middle East and Africa 9 Countries 15 Days Unlimited Data(1GB/day high speed),SKYGO,D2409301706270341743,14.9,385,385
+418,Middle East and Africa 9 Countries 15 Days Unlimited Data(2GB/day high speed),SKYGO,D2409301708307924164,10.45,386,386
+419,Middle East and Africa 9 Countries 15 Days Unlimited Data(500MB/day high speed),SKYGO,D2409301704173032153,7.52,387,387
+420,Middle East and Africa 9 Countries 20 Days 10GB Data Package,SKYGO,D2409301738509457199,8.03,388,388
+409,Malaysia 7 Days Unlimited Data(1GB/day high speed),SKYGO,D2406300332049480090,34.39,389,389
+410,Malaysia 7 Days Unlimited Data(2GB/day high speed),SKYGO,D2406300336573930940,28.66,390,390
+411,Malaysia 7 Days Unlimited Data(3GB/day high speed),SKYGO,D2409021500184290765,22.36,391,391
+412,Malaysia 7 Days Unlimited Data(500MB/day high speed),SKYGO,D2406300328227436126,15.67,392,392
+413,Middle East and Africa 9 Countries 10 Days Unlimited Data(1GB/day high speed),SKYGO,D2409301706086810985,11.27,393,393
+414,Middle East and Africa 9 Countries 10 Days Unlimited Data(2GB/day high speed),SKYGO,D2409301708147920984,30.57,394,394
+403,Malaysia 5 Days Unlimited Data(500MB/day high speed),SKYGO,D2406300327432968107,51.59,395,395
+404,Malaysia 6 Days Unlimited Data(1GB/day high speed),SKYGO,D2406300331490367668,42.99,396,396
+405,Malaysia 6 Days Unlimited Data(2GB/day high speed),SKYGO,D2406300336428298999,33.54,397,397
+406,Malaysia 6 Days Unlimited Data(3GB/day high speed),SKYGO,D2409021459137613110,23.5,398,398
+407,Malaysia 6 Days Unlimited Data(500MB/day high speed),SKYGO,D2406300328117797403,16.92,399,399
+408,Malaysia 7 Days 3GB Data Package,SKYGO,D2212221139370837212,45.86,400,400
+397,Malaysia 4 Days Unlimited Data(2GB/day high speed),SKYGO,D2406300336150921913,53.5,401,401
+398,Malaysia 4 Days Unlimited Data(3GB/day high speed),SKYGO,D2409021456344406960,40.76,402,402
+399,Malaysia 4 Days Unlimited Data(500MB/day high speed),SKYGO,D2406300327297043089,57.32,403,403
+400,Malaysia 5 Days Unlimited Data(1GB/day high speed),SKYGO,D2406300331355801802,25.48,404,404
+401,Malaysia 5 Days Unlimited Data(2GB/day high speed),SKYGO,D2406300336303466890,15.29,405,405
+402,Malaysia 5 Days Unlimited Data(3GB/day high speed),SKYGO,D2409021457525517283,68.79,406,406
+391,Malaysia 30 Days 30GB Data Package,SKYGO,D2406300345080486109,12.23,407,407
+392,Malaysia 30 Days Unlimited Data(1GB/day high speed),SKYGO,D2406300333127145160,15.54,408,408
+393,Malaysia 30 Days Unlimited Data(2GB/day high speed),SKYGO,D2406300337561792115,34.39,409,409
+394,Malaysia 30 Days Unlimited Data(3GB/day high speed),SKYGO,D2409021506423654038,31.85,410,410
+395,Malaysia 30 Days Unlimited Data(500MB/day high speed),SKYGO,D2406300329320958579,42.04,411,411
+396,Malaysia 4 Days Unlimited Data(1GB/day high speed),SKYGO,D2406300331188366197,38.22,412,412
+385,Malaysia 20 Days Unlimited Data(500MB/day high speed),SKYGO,D2406300329188533848,40.32,413,413
+386,Malaysia 3 Days Unlimited Data(1GB/day high speed),SKYGO,D2406300331072384554,30.19,414,414
+387,Malaysia 3 Days Unlimited Data(2GB/day high speed),SKYGO,D2406300336007908005,20.06,415,415
+388,Malaysia 3 Days Unlimited Data(3GB/day high speed),SKYGO,D2409021453514462958,16.82,416,416
+389,Malaysia 3 Days Unlimited Data(500MB/day high speed),SKYGO,D2406300327158803912,13.38,417,417
+390,Malaysia 30 Days 15GB Data Package,SKYGO,D2406300344196437771,9.04,418,418
+379,Malaysia 2 Days Unlimited Data(3GB/day high speed),SKYGO,D2409021449088474622,3.59,419,419
+380,Malaysia 2 Days Unlimited Data(500MB/day high speed),SKYGO,D2406300326363608702,60.48,420,420
+381,Malaysia 20 Days 10GB Data Package,SKYGO,D2212221148056550084,45.29,421,421
+382,Malaysia 20 Days Unlimited Data(1GB/day high speed),SKYGO,D2406300332576908878,30.1,422,422
+383,Malaysia 20 Days Unlimited Data(2GB/day high speed),SKYGO,D2406300337416509220,25.22,423,423
+384,Malaysia 20 Days Unlimited Data(3GB/day high speed),SKYGO,D2409021504349816431,20.06,424,424
+373,Malaysia 15 Days Unlimited Data(1GB/day high speed),SKYGO,D2406300332408294794,46.8,425,425
+374,Malaysia 15 Days Unlimited Data(2GB/day high speed),SKYGO,D2406300337279032304,5.35,426,426
+375,Malaysia 15 Days Unlimited Data(3GB/day high speed),SKYGO,D2409021503339462666,4.89,427,427
+376,Malaysia 15 Days Unlimited Data(500MB/day high speed),SKYGO,D2406300329052236302,4.39,428,428
+377,Malaysia 2 Days Unlimited Data(1GB/day high speed),SKYGO,D2406300330555090536,3.82,429,429
+378,Malaysia 2 Days Unlimited Data(2GB/day high speed),SKYGO,D2406300334500043907,3.73,430,430
+367,Malaysia 10 Days 5GB Data Package,SKYGO,D2404031813494166139,2.48,431,431
+368,Malaysia 10 Days Unlimited Data(1GB/day high speed),SKYGO,D2406300332260361770,4.46,432,432
+369,Malaysia 10 Days Unlimited Data(2GB/day high speed),SKYGO,D2406300337142716234,2.96,433,433
+370,Malaysia 10 Days Unlimited Data(3GB/day high speed),SKYGO,D2409021501470863791,1.65,434,434
+371,Malaysia 10 Days Unlimited Data(500MB/day high speed),SKYGO,D2406300328441090664,40.6,435,435
+372,Malaysia 15 Days 7GB Data Package,SKYGO,D2212221141598358153,58.2,436,436
+361,Mainland/Vietnam 6 Days Unlimited Data(1GB/day high speed),SKYGO,D2303221825404396790,3.21,437,437
+362,Mainland/Vietnam 6 Days Unlimited Data(2GB/day high speed),SKYGO,D181029035220_215044,2.68,438,438
+363,Mainland/Vietnam 6 Days Unlimited Data(500MB/day high speed),SKYGO,D190329111438_674048,2.45,439,439
+364,Mainland/Vietnam 7 Days Unlimited Data(1GB/day high speed),SKYGO,D2303221826214109027,2.06,440,440
+365,Mainland/Vietnam 7 Days Unlimited Data(2GB/day high speed),SKYGO,D181029035320_215052,6.69,441,441
+366,Mainland/Vietnam 7 Days Unlimited Data(500MB/day high speed),SKYGO,D190329111521_674057,4.44,442,442
+355,Mainland/Vietnam 4 Days Unlimited Data(1GB/day high speed),SKYGO,D2303221824227620224,4.82,443,443
+356,Mainland/Vietnam 4 Days Unlimited Data(2GB/day high speed),SKYGO,D181029033020_214999,4.01,444,444
+357,Mainland/Vietnam 4 Days Unlimited Data(500MB/day high speed),SKYGO,D190329111307_674032,3.67,445,445
+358,Mainland/Vietnam 5 Days Unlimited Data(1GB/day high speed),SKYGO,D2303221825057945932,3.1,446,446
+359,Mainland/Vietnam 5 Days Unlimited Data(2GB/day high speed),SKYGO,D181029035121_215039,5.35,447,447
+360,Mainland/Vietnam 5 Days Unlimited Data(500MB/day high speed),SKYGO,D190329111358_674040,3.75,448,448
+349,Mainland/Vietnam 10 Days Unlimited Data(1GB/day high speed),SKYGO,D2303221827042497845,7.22,449,449
+350,Mainland/Vietnam 10 Days Unlimited Data(2GB/day high speed),SKYGO,D181029035420_215057,6.03,450,450
+351,Mainland/Vietnam 10 Days Unlimited Data(500MB/day high speed),SKYGO,D190329111602_674063,5.5,451,451
+352,Mainland/Vietnam 3 Days Unlimited Data(1GB/day high speed),SKYGO,D2303221605102338372,4.65,452,452
+353,Mainland/Vietnam 3 Days Unlimited Data(2GB/day high speed),SKYGO,D181029032920_214995,8.03,453,453
+354,Mainland/Vietnam 3 Days Unlimited Data(500MB/day high speed),SKYGO,D190329111214_674025,5.62,454,454
+343,Mainland/HK/Macao 7 Days Unlimited(1GB/day high speed),SKYGO,D2206291641443317100,22.27,455,455
+344,Mainland/HK/Macao 7 Days Unlimited(2GB/day high speed),SKYGO,D2206291645231238172,15.59,456,456
+345,Mainland/HK/Macao 7 Days Unlimited(500MB/day high speed),SKYGO,D190111102607_741493,11.13,457,457
+346,Mainland/Macao 15 Days 10GB Data Package,SKYGO,D2409021300112196955,19.87,458,458
+347,Mainland/Macao 30 Days 15GB Data Package,SKYGO,D2409021302267137877,12.04,459,459
+348,Mainland/Macao 6 Days 5GB Data Package,SKYGO,D2409021256245157580,8.43,460,460
+337,Mainland/HK/Macao 3 Days Unlimited(1GB/day high speed),SKYGO,D2206291640027156278,33.4,461,461
+338,Mainland/HK/Macao 3 Days Unlimited(2GB/day high speed),SKYGO,D2206291644182695688,23.38,462,462
+339,Mainland/HK/Macao 3 Days Unlimited(500MB/day high speed),SKYGO,D190111102453_741486,16.7,463,463
+340,Mainland/HK/Macao 5 Days Unlimited(1GB/day high speed),SKYGO,D2206291640510100081,35.34,464,464
+341,Mainland/HK/Macao 5 Days Unlimited(2GB/day high speed),SKYGO,D2206291645002694953,28.95,465,465
+342,Mainland/HK/Macao 5 Days Unlimited(500MB/day high speed),SKYGO,D181212112518_506552,24.49,466,466
+331,Mainland/HK/Macao 10 Days Unlimited(1GB/day high speed),SKYGO,D2206291642152643255,50.15,467,467
+332,Mainland/HK/Macao 10 Days Unlimited(2GB/day high speed),SKYGO,D2206291645597757463,35.07,468,468
+333,Mainland/HK/Macao 10 Days Unlimited(500MB/day high speed),SKYGO,D181212112627_506561,25.05,469,469
+334,Mainland/HK/Macao 15 Days Unlimited(1GB/day high speed),SKYGO,D2206291642438029448,53.01,470,470
+335,Mainland/HK/Macao 15 Days Unlimited(2GB/day high speed),SKYGO,D2206291646323465759,43.42,471,471
+336,Mainland/HK/Macao 15 Days Unlimited(500MB/day high speed),SKYGO,D190111102712_741504,36.74,472,472
+325,Mainland/HK 3 Days Unlimited Data(2GB/day high speed),SKYGO,D2312190044591826464,15.57,473,473
+326,Mainland/HK 30 Days 15GB package,SKYGO,D2405271603333680610,10.9,474,474
+327,Mainland/HK 30 Days Unlimited Data(1GB/day high speed),SKYGO,D2206291625501092196,7.8,475,475
+328,Mainland/HK 30 Days Unlimited Data(2GB/day high speed),SKYGO,D2206291628354158157,79.51,476,476
+329,Mainland/HK 8 Days Unlimited Data(1GB/day high speed),SKYGO,D181105113045_233749,65.13,477,477
+330,Mainland/HK 8 Days Unlimited Data(2GB/day high speed),SKYGO,D2206291628035580583,55.11,478,478
+319,Mainland/HK 1 Day Unlimited Data(2GB/day high speed),SKYGO,D2312190042436120887,22.05,479,479
+320,Mainland/HK 15 Days 10GB package,SKYGO,D2404031219533674458,15.5,480,480
+321,Mainland/HK 15 Days Unlimited Data(5GB/day high speed),SKYGO,D2404031047198218202,11.69,481,481
+322,Mainland/HK 2 Days Unlimited Data(1GB/day high speed),SKYGO,D2312190040063056100,28.27,482,482
+323,Mainland/HK 2 Days Unlimited Data(2GB/day high speed),SKYGO,D2312190043578418953,21.71,483,483
+324,Mainland/HK 3 Days Unlimited Data(1GB/day high speed),SKYGO,D2312190041413951225,18.37,484,484
+313,Macao 3 Days Unlimited Data (2GB/day high speed),SKYGO,D2206291508007047598,32.8,485,485
+314,Macao 5 Days Unlimited Data (1GB/day high speed),SKYGO,D190111042602_740376,23.5,486,486
+315,Macao 5 Days Unlimited Data (2GB/day high speed),SKYGO,D2206291511257020719,16.79,487,487
+316,Macao 7 Days Unlimited Data (1GB/day high speed),SKYGO,D190111042656_740381,53.01,488,488
+317,Macao 7 Days Unlimited Data (2GB/day high speed),SKYGO,D2206291511520039973,41.26,489,489
+318,Mainland/HK 1 Day Unlimited Data(1GB/day high speed),SKYGO,D2312190037013221508,31.22,490,490
+307,Japan 8 Days Unlimited Data(3GB/day high speed),SKYGO,D2303221206146148829,14.39,491,491
+308,Macao 1 Day Unlimited Data (1GB/day high speed),SKYGO,D180917092022_93720,21.01,492,492
+309,Macao 1 Day Unlimited Data (2GB/day high speed),SKYGO,D2206291505310450105,6.11,493,493
+310,Macao 2 Days Unlimited Data (2GB/day high speed),SKYGO,D2206291507013438746,79.51,494,494
+311,Macao 2 Days Unlimited Data(1GB/day daily high speed),SKYGO,D180917092236_93724,65.13,495,495
+312,Macao 3 Days Unlimited Data (1GB/day high speed),SKYGO,D180917092325_93728,49.04,496,496
+301,Japan 7 Days Unlimited Data(2GB/day high speed)-HIMSI,SKYGO,D2211281715006722789,1.82,497,497
+302,Japan 7 Days Unlimited Data(3GB/day high speed),SKYGO,D2303221204483583107,8.68,498,498
+303,Japan 8 Days Unlimited Data(1GB/day high speed),SKYGO,D2206291732444380143,12.99,499,499
+304,Japan 8 Days Unlimited Data(1GB/day high speed)-HIMSI,SKYGO,D2211291905521026723,6.5,500,500
+305,Japan 8 Days Unlimited Data(2GB/day high speed),SKYGO,D2206291736546738743,19.57,501,501
+306,Japan 8 Days Unlimited Data(2GB/day high speed)-HIMSI,SKYGO,D2211291906293659841,14.68,502,502
+295,Japan 5 Days Unlimited Data(3GB/day high speed),SKYGO,D2303221203026117974,2.19,503,503
+296,Japan 7 Days 3GB Data Package,SKYGO,D2212221112255134450,15.89,504,504
+297,Japan 7 Days 3GB Data Package-HIMSI,SKYGO,D2209291631410506133,12.11,505,505
+298,Japan 7 Days Unlimited Data(1GB/day high speed),SKYGO,D190114031109_750533,6.05,506,506
+299,Japan 7 Days Unlimited Data(1GB/day high speed)-HIMSI,SKYGO,D2211290728561638223,4.54,507,507
+300,Japan 7 Days Unlimited Data(2GB/day high speed),SKYGO,D2206291736273235857,3.48,508,508
+289,Japan 30 Days 30GB Data Package,SKYGO,D2303221430043380475,6.57,509,509
+290,Japan 30 Days 30GB Data Package-HIMSI,SKYGO,D2305031515452228361,5.25,510,510
+291,Japan 5 Days Unlimited Data(1G/day high speed)-HIMSI,SKYGO,D2211282006483002407,4.6,511,511
+292,Japan 5 Days Unlimited Data(1GB/day high speed),SKYGO,D2206171459265750624,3.94,512,512
+293,Japan 5 Days Unlimited Data(2GB/day high speed),SKYGO,D2206291736017128099,3.65,513,513
+294,Japan 5 Days Unlimited Data(2GB/day high speed)-HIMSI,SKYGO,D2211282137437512455,2.92,514,514
+283,Japan 3 Days Unlimited Data(1GB/day high speed)-HIMSI,SKYGO,D2211290733178528410,6.57,515,515
+284,Japan 3 Days Unlimited Data(2G/day high speed)-HIMSI,SKYGO,D2211282044474435277,5.25,516,516
+285,Japan 3 Days Unlimited Data(2GB/day high speed),SKYGO,D2206291735230640582,3.94,517,517
+286,Japan 3 Days Unlimited Data(3GB/day high speed),SKYGO,D2303221159159847144,15.32,518,518
+287,Japan 30 Days 15GB Data Package,SKYGO,D200228094011_735960,7.67,519,519
+288,Japan 30 Days 15GB Data Package-HIMSI,SKYGO,D2211291841450958794,7,520,520
+277,Japan 15 Days 5GB Data Package-HIMSI,SKYGO,D2305031521056215107,14.02,521,521
+278,Japan 15 Days 7GB Data Package,SKYGO,D2212221125086245537,13.13,522,522
+279,Japan 15 Days 7GB Data Package-HIMSI,SKYGO,D2305031517529821312,11.67,523,523
+280,Japan 20 Days 10GB Data Package,SKYGO,D2212221126504240858,9.34,524,524
+281,Japan 20 Days 10GB Data Package-HIMSI,SKYGO,D2305031516483095555,8.18,525,525
+282,Japan 3 Days Unlimited Data(1GB/day high speed),SKYGO,D2206291730036298904,7.89,526,526
+271,Japan 12 Days Unlimited Data(1GB/day high speed),SKYGO,D2206291733522598975,15.76,527,527
+272,Japan 12 Days Unlimited Data(1GB/day high speed)-HIMSI,SKYGO,D2211290725121609646,14.3,528,528
+273,Japan 12 Days Unlimited Data(2GB/day high speed),SKYGO,D2206291738043899151,11.67,529,529
+274,Japan 12 Days Unlimited Data(2GB/day high speed)-HIMSI,SKYGO,D2211290726426860004,9.34,530,530
+275,Japan 12 Days Unlimited Data(3GB/day high speed),SKYGO,D2303221209192899239,7,531,531
+276,Japan 15 Days 5GB Data Package,SKYGO,D2212221124327384713,26.27,532,532
+265,Indonesia 7 Days Unlimited Data  (2GB/day high speed),SKYGO,D2206291839380791848,3.29,533,533
+266,Japan 10 Days Unlimited Data(1GB/day high speed),SKYGO,D2206171500041726584,52.55,534,534
+267,Japan 10 Days Unlimited Data(1GB/day high speed)-HIMSI,SKYGO,D2211291909091307920,26.27,535,535
+268,Japan 10 Days Unlimited Data(2GB/day high speed),SKYGO,D2206291737376685419,24.53,536,536
+269,Japan 10 Days Unlimited Data(2GB/day high speed)-HIMSI,SKYGO,D2211291909471146294,20.43,537,537
+270,Japan 10 Days Unlimited Data(3GB/day high speed),SKYGO,D2303221208337912190,16.35,538,538
+259,Indonesia 4 Days Unlimited Data  (2GB/day high speed),SKYGO,D2206291836288087350,0.82,539,539
+260,Indonesia 5 Days Unlimited Data  (1GB/day high speed),SKYGO,D2206171545348689983,23.04,540,540
+261,Indonesia 5 Days Unlimited Data  (2GB/day high speed),SKYGO,D2206291837033107889,17.55,541,541
+262,Indonesia 6 Days Unlimited Data  (1GB/day high speed),SKYGO,D2206291831355529246,9.87,542,542
+263,Indonesia 6 Days Unlimited Data  (2GB/day high speed),SKYGO,D2206291839085997920,7.64,543,543
+264,Indonesia 7 Days Unlimited Data  (1GB/day high speed),SKYGO,D2206171545573326900,5.48,544,544
+253,Hong Kong 7 Days Unlimited Data(5GB/day high speed),SKYGO,D2306291716410498179,2.4,545,545
+254,Indonesia 10 Days Unlimited Data  (1GB/day high speed),SKYGO,D2206171546172178647,1.83,546,546
+255,Indonesia 10 Days Unlimited Data  (2GB/day high speed),SKYGO,D2206291840119348300,1.64,547,547
+256,Indonesia 3 Days Unlimited Data  (1GB/day high speed),SKYGO,D2206291829577956088,1.44,548,548
+257,Indonesia 3 Days Unlimited Data  (2GB/day high speed),SKYGO,D2206291836060222498,1.25,549,549
+258,Indonesia 4 Days Unlimited Data  (1GB/day high speed),SKYGO,D2206291831114760076,1.02,550,550
+247,Hong Kong 4 Days Unlimited Data(5GB/day high speed),SKYGO,D2306291715434800719,1.76,551,551
+248,Hong Kong 5 Days Unlimited Data(1GB/day high speed),SKYGO,D2206291455182268209,1.35,552,552
+249,Hong Kong 5 Days Unlimited Data(2GB/day high speed),SKYGO,D180926035020_97238,1.23,553,553
+250,Hong Kong 5 Days Unlimited Data(5GB/day high speed),SKYGO,D2306291716077206364,7.2,554,554
+251,Hong Kong 7 Days Unlimited Data(1GB/day high speed),SKYGO,D2206291455418917051,4.8,555,555
+252,Hong Kong 7 Days Unlimited Data(2GB/day high speed),SKYGO,D180926035403_97243,3.6,556,556
+241,Hong Kong 2 Days Unlimited Data(5GB/day high speed),SKYGO,D2306291714496918861,6.53,557,557
+242,Hong Kong 3 Days Unlimited Data(1GB/day high speed),SKYGO,D2206291454158131520,5.05,558,558
+243,Hong Kong 3 Days Unlimited Data(2GB/day high speed),SKYGO,D180926034716_97230,3.37,559,559
+244,Hong Kong 3 Days Unlimited Data(5GB/day high speed),SKYGO,D2306291715108702135,2.56,560,560
+245,Hong Kong 4 Days Unlimited Data(1GB/day high speed),SKYGO,D2206291454474855589,2.29,561,561
+246,Hong Kong 4 Days Unlimited Data(2GB/day high speed),SKYGO,D180926034800_97234,2.02,562,562
+235,HK/Macao 7 Days Unlimited Data(2GB/day high speed),SKYGO,D181016033010_163631,3.44,563,563
+236,Hong Kong 1 Day Unlimited Data(1GB/day high speed),SKYGO,D2206291453135782763,3.03,564,564
+237,Hong Kong 1 Day Unlimited Data(2GB/day high speed),SKYGO,D180926034548_97219,2.64,565,565
+238,Hong Kong 1 Day Unlimited Data(5GB/day high speed),SKYGO,D2306291714221071843,2.02,566,566
+239,Hong Kong 2 Days Unlimited Data(1GB/day high speed),SKYGO,D2206291453435031295,1.84,567,567
+240,Hong Kong 2 Days Unlimited Data(2GB/day high speed),SKYGO,D180926034632_97224,9.8,568,568
+229,HK/Macao 3 Days Unlimited Data(1GB/day high speed),SKYGO,D2206291553546520141,6.82,569,569
+230,HK/Macao 4 Days Unlimited Data(1GB/day high speed),SKYGO,D2206291554197513780,14.71,570,570
+231,HK/Macao 4 Days Unlimited Data(2GB/day high speed),SKYGO,D181016032824_163620,9.8,571,571
+232,HK/Macao 5 Days Unlimited Data (2GB/day high speed),SKYGO,D181016032919_163626,7.57,572,572
+233,HK/Macao 5 Days Unlimited Data(1GB/day high speed),SKYGO,D2206291555015803170,5.05,573,573
+234,HK/Macao 7 Days Unlimited Data(1GB/day high speed),SKYGO,D2206291555239983175,3.84,574,574
+223,Gulf Arab States Four Destinations 7 Days Unlimited Data(500MB/day high speed),SKYGO,D2303221853473761754,2.75,575,575
+224,HK/Macao 1 Day Unlimited Data (2GB/day high speed),SKYGO,D190301103115_350087,2.45,576,576
+225,HK/Macao 1 Day Unlimited Data(1GB/day high speed),SKYGO,D2206291552128561914,9.99,577,577
+226,HK/Macao 2 Days Unlimited Data (2GB/day high speed),SKYGO,D190301103318_350104,6.93,578,578
+227,HK/Macao 2 Days Unlimited Data(1GB/day high speed),SKYGO,D2206291553303455145,4.89,579,579
+228,HK/Macao 3 Days Unlimited Data (2GB/day high speed),SKYGO,D181016032720_163614,12.15,580,580
+217,Gulf Arab States Four Destinations 30 Days Unlimited Data(500MB/day high speed),SKYGO,D2303221855553425426,10.8,581,581
+218,Gulf Arab States Four Destinations 5 Days Unlimited Data(1GB/day high speed),SKYGO,D2303231047445280257,7.54,582,582
+219,Gulf Arab States Four Destinations 5 Days Unlimited Data(2GB/day high speed),SKYGO,D2303231051595338328,5.4,583,583
+220,Gulf Arab States Four Destinations 5 Days Unlimited Data(500MB/day high speed),SKYGO,D2303221852377385023,4.79,584,584
+221,Gulf Arab States Four Destinations 7 Days Unlimited Data(1GB/day high speed),SKYGO,D2303231048161376838,4.08,585,585
+222,Gulf Arab States Four Destinations 7 Days Unlimited Data(2GB/day high speed),SKYGO,D2303231052345742924,3.46,586,586
+211,Gulf Arab States Four Destinations 20 Days Unlimited Data(1GB/day high speed),SKYGO,D2303231050081519733,16.31,587,587
+212,Gulf Arab States Four Destinations 20 Days Unlimited Data(2GB/day high speed),SKYGO,D2303231055464741456,12.94,588,588
+213,Gulf Arab States Four Destinations 20 Days Unlimited Data(500MB/day high speed),SKYGO,D2303221855026096078,9.17,589,589
+214,Gulf Arab States Four Destinations 30 Days 20GB Data Package,SKYGO,D2404031224365551659,7.03,590,590
+215,Gulf Arab States Four Destinations 30 Days Unlimited Data(1GB/day high speed),SKYGO,D2303231051146271866,20.99,591,591
+216,Gulf Arab States Four Destinations 30 Days Unlimited Data(2GB/day high speed),SKYGO,D2303231056173223953,12.84,592,592
+205,Gulf Arab States Four Destinations 10 Days Unlimited Data(500MB/day high speed),SKYGO,D2303221854115979861,24.22,593,593
+206,Gulf Arab States Four Destinations 15 Days 5GB Data Package,SKYGO,D2303231104045872932,18.96,594,594
+207,Gulf Arab States Four Destinations 15 Days Unlimited Data(1GB/day high speed),SKYGO,D2303231049197081124,15.07,595,595
+208,Gulf Arab States Four Destinations 15 Days Unlimited Data(2GB/day high speed),SKYGO,D2303231053523546142,10.76,596,596
+209,Gulf Arab States Four Destinations 15 Days Unlimited Data(500MB/day high speed),SKYGO,D2303221854380225627,28.24,597,597
+210,Gulf Arab States Four Destinations 20 Days 10GB Data Package,SKYGO,D2303231105329770262,18.83,598,598
+199,Greater China 5 Days Unlimited Data(500MB/day high speed),SKYGO,D181023063159_204448,48.42,599,599
+200,Greater China 7 Days Unlimited Data(1GB/day high speed),SKYGO,D2206291653083857606,32.28,600,600
+201,Greater China 7 Days Unlimited Data(2GB/day high speed),SKYGO,D2206291703273004679,26.36,601,601
+202,Greater China 7 Days Unlimited Data(500MB/day high speed),SKYGO,D181023063337_204455,18.83,602,602
+203,Gulf Arab States Four Destinations 10 Days Unlimited Data(1GB/day high speed),SKYGO,D2303231048454139668,48.42,603,603
+204,Gulf Arab States Four Destinations 10 Days Unlimited Data(2GB/day high speed),SKYGO,D2303231053009291381,32.28,604,604
+193,Greater China 2 Days Unlimited Data(500MB/day high speed),SKYGO,D181023062822_204433,3.63,605,605
+194,Greater China 3 Days Unlimited Data(1GB/day high speed),SKYGO,D2206291652011528009,30.22,606,606
+195,Greater China 3 Days Unlimited Data(2GB/day high speed),SKYGO,D2206291657123412192,17.27,607,607
+196,Greater China 3 Days Unlimited Data(500MB/day high speed),SKYGO,D181010061617_148815,13.41,608,608
+197,Greater China 5 Days Unlimited Data(1GB/day high speed),SKYGO,D2206291652325482324,96.84,609,609
+198,Greater China 5 Days Unlimited Data(2GB/day high speed),SKYGO,D2206291700149542769,64.56,610,610
+187,Greater China 1 Day Unlimited Data(500MB/day high speed),SKYGO,D181018012610_199268,24.46,611,611
+188,Greater China 10 Days Unlimited Data(1GB/day high speed),SKYGO,D2206291653453445759,17.06,612,612
+189,Greater China 10 Days Unlimited Data(2GB/day high speed),SKYGO,D2206291704050626279,12.66,613,613
+190,Greater China 10 Days Unlimited Data(500MB/day high speed),SKYGO,D181010061822_148823,9.91,614,614
+191,Greater China 2 Days Unlimited Data(1GB/day high speed),SKYGO,D2206291651346648003,8.19,615,615
+192,Greater China 2 Days Unlimited Data(2GB/day high speed),SKYGO,D2206291656388799714,5.46,616,616
+181,Europe 8 Days Unlimited Data(3GB/day high speed),SKYGO,D2507042321173176200,5.63,617,617
+182,Europe 9 Days Unlimited Data(1GB/day high speed),SKYGO,D2507041911030990400,4.31,618,618
+183,Europe 9 Days Unlimited Data(2GB/day high speed),SKYGO,D2507042218424057906,3.06,619,619
+184,Europe 9 Days Unlimited Data(3GB/day high speed),SKYGO,D2507042321341955135,1.73,620,620
+185,Greater China 1 Day Unlimited Data(1GB/day high speed),SKYGO,D2206291650243023872,48.92,621,621
+186,Greater China 1 Day Unlimited Data(2GB/day high speed),SKYGO,D2206291655580248209,32.61,622,622
+175,Europe 7 Destinations 10 Days Unlimited Data Package(2GB/day high speed),SKYGO,D2405231859504096145,16.51,623,623
+176,Europe 7 Destinations 15 Days Unlimited Data Package(2GB/day high speed),SKYGO,D2405231900294542085,13.25,624,624
+177,Europe 7 Destinations 30 Days 10GB Package,SKYGO,D2405231902389050719,11.01,625,625
+178,Europe 7 Destinations 30 Days 20GB Package,SKYGO,D2405231904025791987,8.19,626,626
+179,Europe 8 Days Unlimited Data(1GB/day high speed),SKYGO,D2507041910385992302,7.64,627,627
+180,Europe 8 Days Unlimited Data(2GB/day high speed),SKYGO,D2507042218241001529,6.47,628,628
+169,Europe 6 Days Unlimited Data(1GB/day high speed),SKYGO,D2507041910240103372,11.08,629,629
+170,Europe 6 Days Unlimited Data(2GB/day high speed),SKYGO,D2507042217498323707,11.82,630,630
+171,Europe 6 Days Unlimited Data(3GB/day high speed),SKYGO,D2507042320577114700,9.85,631,631
+172,Europe 7 Days Unlimited Data(1GB/day high speed),SKYGO,D2206091135171925874,6.89,632,632
+173,Europe 7 Days Unlimited Data(2GB/day high speed),SKYGO,D2206291856141314480,32.92,633,633
+174,Europe 7 Days Unlimited Data(3GB/day high speed),SKYGO,D2503311649304696160,21.91,634,634
+163,Europe 4 Days Unlimited Data(1GB/day high speed),SKYGO,D2507041910103029033,17.72,635,635
+164,Europe 4 Days Unlimited Data(2GB/day high speed),SKYGO,D2507042217233203456,16.5,636,636
+165,Europe 4 Days Unlimited Data(3GB/day high speed),SKYGO,D2507042320354821228,13.77,637,637
+166,Europe 5 Days Unlimited Data(1GB/day high speed),SKYGO,D2206291850234693769,9.66,638,638
+167,Europe 5 Days Unlimited Data(2GB/day high speed),SKYGO,D2206291855407008527,22.15,639,639
+168,Europe 5 Days Unlimited Data(3GB/day high speed),SKYGO,D2503311649018381253,14.76,640,640
+157,Europe 30 Days 10GB Data Package,SKYGO,D2206171718138615640,26.59,641,641
+158,Europe 30 Days 20GB Data Package,SKYGO,D2303231443529390725,24.75,642,642
+159,Europe 30 Days 30GB Data Package,SKYGO,D2303231443015979167,20.65,643,643
+160,Europe 30 Days Unlimited Data(1GB/day high speed),SKYGO,D2206091136223123003,14.47,644,644
+161,Europe 30 Days Unlimited Data(2GB/day high speed),SKYGO,D2206291858438338083,35.4,645,645
+162,Europe 30 Days Unlimited Data(3GB/day high speed),SKYGO,D2503311653286618813,23.61,646,646
+151,Europe 29 Days Unlimited Data(1GB/day high speed),SKYGO,D2507041936217516783,16.89,647,647
+152,Europe 29 Days Unlimited Data(2GB/day high speed),SKYGO,D2507042313208138195,8.13,648,648
+153,Europe 29 Days Unlimited Data(3GB/day high speed),SKYGO,D2507042327210353019,5.54,649,649
+154,Europe 3 Days Unlimited Data(1GB/day high speed),SKYGO,D2507041909579569506,1.91,650,650
+155,Europe 3 Days Unlimited Data(2GB/day high speed),SKYGO,D2507042210054827298,53.11,651,651
+156,Europe 3 Days Unlimited Data(3GB/day high speed),SKYGO,D2507042320161564961,35.44,652,652
+145,Europe 27 Days Unlimited Data(1GB/day high speed),SKYGO,D2507041935546900357,10.32,653,653
+146,Europe 27 Days Unlimited Data(2GB/day high speed),SKYGO,D2507042223071118088,78.98,654,654
+147,Europe 27 Days Unlimited Data(3GB/day high speed),SKYGO,D2507042326493988708,57.32,655,655
+148,Europe 28 Days Unlimited Data(1GB/day high speed),SKYGO,D2507041936086465123,45.86,656,656
+149,Europe 28 Days Unlimited Data(2GB/day high speed),SKYGO,D2507042223248417364,37.76,657,657
+150,Europe 28 Days Unlimited Data(3GB/day high speed),SKYGO,D2507042327038218982,31.8,658,658
+139,Europe 25 Days Unlimited Data(1GB/day high speed),SKYGO,D2507041935279373893,4,659,659
+140,Europe 25 Days Unlimited Data(2GB/day high speed),SKYGO,D2507042222362659883,3,660,660
+141,Europe 25 Days Unlimited Data(3GB/day high speed),SKYGO,D2507042326138143154,2.67,661,661
+142,Europe 26 Days Unlimited Data(1GB/day high speed),SKYGO,D2507041935423280464,2.27,662,662
+143,Europe 26 Days Unlimited Data(2GB/day high speed),SKYGO,D2507042222520767560,1.8,663,663
+144,Europe 26 Days Unlimited Data(3GB/day high speed),SKYGO,D2507042326313961233,1.27,664,664
+133,Europe 23 Days Unlimited Data(1GB/day high speed),SKYGO,D2507041935018229802,7.93,665,665
+134,Europe 23 Days Unlimited Data(2GB/day high speed),SKYGO,D2507042222015192722,7.68,666,666
+135,Europe 23 Days Unlimited Data(3GB/day high speed),SKYGO,D2507042325378462476,7,667,667
+136,Europe 24 Days Unlimited Data(1GB/day high speed),SKYGO,D2507041935154821164,6.5,668,668
+137,Europe 24 Days Unlimited Data(2GB/day high speed),SKYGO,D2507042222176555100,5.5,669,669
+138,Europe 24 Days Unlimited Data(3GB/day high speed),SKYGO,D2507042325535012847,4.5,670,670
+127,Europe 21 Days Unlimited Data(1GB/day high speed),SKYGO,D2507041934332087829,10.72,671,671
+128,Europe 21 Days Unlimited Data(2GB/day high speed),SKYGO,D2507042221310971683,10.27,672,672
+129,Europe 21 Days Unlimited Data(3GB/day high speed),SKYGO,D2507042325022377576,9.83,673,673
+130,Europe 22 Days Unlimited Data(1GB/day high speed),SKYGO,D2507041934479965950,9.38,674,674
+131,Europe 22 Days Unlimited Data(2GB/day high speed),SKYGO,D2507042221464331403,8.87,675,675
+132,Europe 22 Days Unlimited Data(3GB/day high speed),SKYGO,D2507042325187690840,8.4,676,676
+121,Europe 2 Days Unlimited Data(1GB/day high speed),SKYGO,D2507041909449560584,1.15,677,677
+122,Europe 2 Days Unlimited Data(2GB/day high speed),SKYGO,D2507042209418882806,12.57,678,678
+123,Europe 2 Days Unlimited Data(3GB/day high speed),SKYGO,D2507042319506282734,12.13,679,679
+124,Europe 20 Days Unlimited Data(1GB/day high speed),SKYGO,D2206291851030076782,11.7,680,680
+125,Europe 20 Days Unlimited Data(2GB/day high speed),SKYGO,D2206291858199844782,11.27,681,681
+126,Europe 20 Days Unlimited Data(3GB/day high speed),SKYGO,D2503311653156847661,10.83,682,682
+115,Europe 18 Days Unlimited Data(1GB/day high speed),SKYGO,D2507041933544017972,6,683,683
+116,Europe 18 Days Unlimited Data(2GB/day high speed),SKYGO,D2507042220548518621,4.5,684,684
+117,Europe 18 Days Unlimited Data(3GB/day high speed),SKYGO,D2507042324210147694,4,685,685
+118,Europe 19 Days Unlimited Data(1GB/day high speed),SKYGO,D2507041934079857595,3.4,686,686
+119,Europe 19 Days Unlimited Data(2GB/day high speed),SKYGO,D2507042221107434296,2.7,687,687
+120,Europe 19 Days Unlimited Data(3GB/day high speed),SKYGO,D2507042324409889411,1.9,688,688
+109,Europe 16 Days Unlimited Data(1GB/day high speed),SKYGO,D2507041933255214539,11.9,689,689
+110,Europe 16 Days Unlimited Data(2GB/day high speed),SKYGO,D2507042220220578963,11.52,690,690
+111,Europe 16 Days Unlimited Data(3GB/day high speed),SKYGO,D2507042323497011576,10.5,691,691
+112,Europe 17 Days Unlimited Data(1GB/day high speed),SKYGO,D2507041933408735048,9.75,692,692
+113,Europe 17 Days Unlimited Data(2GB/day high speed),SKYGO,D2507042220372486412,8.25,693,693
+114,Europe 17 Days Unlimited Data(3GB/day high speed),SKYGO,D2507042324052118997,6.75,694,694
+103,Europe 14 Days Unlimited Data(2GB/day high speed),SKYGO,D2507042219539862074,16.08,695,695
+104,Europe 14 Days Unlimited Data(3GB/day high speed),SKYGO,D2507042323200014760,15.41,696,696
+105,Europe 15 Days 6GB Data Package,SKYGO,D200225043210_728079,14.74,697,697
+106,Europe 15 Days Unlimited Data(1GB/day high speed),SKYGO,D2206091136019095391,14.07,698,698
+107,Europe 15 Days Unlimited Data(2GB/day high speed),SKYGO,D2206291857403368188,13.3,699,699
+108,Europe 15 Days Unlimited Data(3GB/day high speed),SKYGO,D2503311653012190781,12.6,700,700
+97,Europe 12 Days Unlimited Data(2GB/day high speed),SKYGO,D2507042219201237233,23.22,701,701
+98,Europe 12 Days Unlimited Data(3GB/day high speed),SKYGO,D2507042322459672163,18.85,702,702
+99,Europe 13 Days Unlimited Data(1GB/day high speed),SKYGO,D2507041932565438699,18.2,703,703
+100,Europe 13 Days Unlimited Data(2GB/day high speed),SKYGO,D2507042219365923875,17.55,704,704
+101,Europe 13 Days Unlimited Data(3GB/day high speed),SKYGO,D2507042323003819898,16.9,705,705
+102,Europe 14 Days Unlimited Data(1GB/day high speed),SKYGO,D2507041933110916354,16.25,706,706
+91,Europe 10 Days Unlimited Data(2GB/day high speed),SKYGO,D2206291857110154857,23.22,707,707
+92,Europe 10 Days Unlimited Data(3GB/day high speed),SKYGO,D2503311652466435558,23.22,708,708
+93,Europe 11 Days Unlimited Data(1GB/day high speed),SKYGO,D2507041911181435049,23.22,709,709
+94,Europe 11 Days Unlimited Data(2GB/day high speed),SKYGO,D2507042219036899006,23.22,710,710
+95,Europe 11 Days Unlimited Data(3GB/day high speed),SKYGO,D2507042321554567982,23.22,711,711
+96,Europe 12 Days Unlimited Data(1GB/day high speed),SKYGO,D2507041911317122916,23.22,712,712
+85,Egypt/Morocco 30 Days 10GB Data Package,SKYGO,D2309211851210852354,23.22,713,713
+86,Europe 1 Day Unlimited Data(1GB/day high speed),SKYGO,D2507041909296298123,23.22,714,714
+87,Europe 1 Day Unlimited Data(2GB/day high speed),SKYGO,D2507042209197232287,23.22,715,715
+88,Europe 1 Day Unlimited Data(3GB/day high speed),SKYGO,D2507042319217529550,23.22,716,716
+89,Europe 10 Days 5GB Data Package,SKYGO,D200225042426_728020,23.22,717,717
+90,Europe 10 Days Unlimited Data(1GB/day high speed),SKYGO,D2206091135414428250,23.22,718,718
+79,Central Asia 4 Destinations 5 Days Unlimited Data(1GB/day high speed),SKYGO,D2404031157411194642,20.9,719,719
+80,Central Asia 4 Destinations 5 Days Unlimited Data(2GB/day high speed),SKYGO,D2404031200224836829,20.03,720,720
+81,Central Asia 4 Destinations 5 Days Unlimited Data(500MB/day high speed),SKYGO,D2404031148444571382,23.22,721,721
+82,Central Asia 4 Destinations 7 Days Unlimited Data(1GB/day high speed),SKYGO,D2404031157565132097,23.22,722,722
+83,Central Asia 4 Destinations 7 Days Unlimited Data(2GB/day high speed),SKYGO,D2404031200401600882,23.22,723,723
+84,Central Asia 4 Destinations 7 Days Unlimited Data(500MB/day high speed),SKYGO,D2404031150487615832,23.22,724,724
+73,Central Asia 4 Destinations 20 Days Unlimited Data(1GB/day high speed),SKYGO,D2404031158445339978,6.88,725,725
+74,Central Asia 4 Destinations 20 Days Unlimited Data(2GB/day high speed),SKYGO,D2404031202354451496,24.51,726,726
+75,Central Asia 4 Destinations 20 Days Unlimited Data(500MB/day high speed),SKYGO,D2404031151552411087,23.66,727,727
+76,Central Asia 4 Destinations 30 Days Unlimited Data(1GB/day high speed),SKYGO,D2404031158590287907,22.82,728,728
+77,Central Asia 4 Destinations 30 Days Unlimited Data(2GB/day high speed),SKYGO,D2404031202508583249,21.97,729,729
+78,Central Asia 4 Destinations 30 Days Unlimited Data(500MB/day high speed),SKYGO,D2404031152156114690,21.13,730,730
+67,Central Asia 4 Destinations 10 Days Unlimited Data(1GB/day high speed),SKYGO,D2404031158100393444,6.88,731,731
+68,Central Asia 4 Destinations 10 Days Unlimited Data(2GB/day high speed),SKYGO,D2404031201006860293,6.88,732,732
+69,Central Asia 4 Destinations 10 Days Unlimited Data(500MB/day high speed),SKYGO,D2404031151112120473,6.88,733,733
+70,Central Asia 4 Destinations 15 Days Unlimited Data(1GB/day high speed),SKYGO,D2404031158311479071,6.88,734,734
+71,Central Asia 4 Destinations 15 Days Unlimited Data(2GB/day high speed),SKYGO,D2404031202204503421,6.88,735,735
+72,Central Asia 4 Destinations 15 Days Unlimited Data(500MB/day high speed),SKYGO,D2404031151365660735,6.88,736,736
+61,Cambodia 6 Days Unlimited Data(1GB/day high speed),SKYGO,D2206291844195202438,6.88,737,737
+62,Cambodia 6 Days Unlimited Data(2GB/day high speed),SKYGO,D2206291847163796790,6.88,738,738
+63,Cambodia 6 Days Unlimited Data(500MB/day high speed),SKYGO,D190826052239_19310,6.88,739,739
+64,Cambodia 7 Days Unlimited Data(1GB/day high speed),SKYGO,D2206171547538145379,6.88,740,740
+65,Cambodia 7 Days Unlimited Data(2GB/day high speed),SKYGO,D2206291847405411679,6.88,741,741
+66,Cambodia 7 Days Unlimited Data(500MB/day high speed),SKYGO,D190826052344_19317,6.88,742,742
+55,Cambodia 4 Days Unlimited Data(1GB/day high speed),SKYGO,D2206291843358347823,12,743,743
+56,Cambodia 4 Days Unlimited Data(2GB/day high speed),SKYGO,D2206291846047693227,11.5,744,744
+57,Cambodia 4 Days Unlimited Data(500MB/day high speed),SKYGO,D190826051958_19289,11,745,745
+58,Cambodia 5 Days Unlimited Data(1GB/day high speed),SKYGO,D2206291843577101488,10.5,746,746
+59,Cambodia 5 Days Unlimited Data(2GB/day high speed),SKYGO,D2206291846319292001,6.88,747,747
+60,Cambodia 5 Days Unlimited Data(500MB/day high speed),SKYGO,D190826052131_19300,6.88,748,748
+49,Cambodia 10 Days Unlimited Data(1GB/day high speed),SKYGO,D2206171549015734421,10.32,749,749
+50,Cambodia 10 Days Unlimited Data(2GB/day high speed),SKYGO,D2206291848095439487,14.5,750,750
+51,Cambodia 10 Days Unlimited Data(500MB/day high speed),SKYGO,D190826052506_19328,14,751,751
+52,Cambodia 3 Days Unlimited Data(1GB/day high speed),SKYGO,D2206291843148274907,13.5,752,752
+53,Cambodia 3 Days Unlimited Data(2GB/day high speed),SKYGO,D2206291845367673023,13,753,753
+54,Cambodia 3 Days Unlimited Data(500MB/day high speed),SKYGO,D190826051824_19275,12.5,754,754
+43,Australia/NZ 5 Days Unlimited Data(1GB/day high speed),SKYGO,D2306291707237288119,10.8,755,755
+44,Australia/NZ 5 Days Unlimited Data(2GB/day high speed),SKYGO,D2306291710419393626,9.6,756,756
+45,Australia/NZ 5 Days Unlimited Data(500MB/day high speed),SKYGO,D190111113606_741755,7.92,757,757
+46,Australia/NZ 7 Days Unlimited Data(1GB/day high speed),SKYGO,D2306291707500194817,10.32,758,758
+47,Australia/NZ 7 Days Unlimited Data(2GB/day high speed),SKYGO,D2306291711023666152,10.32,759,759
+48,Australia/NZ 7 Days Unlimited Data(500MB/day high speed),SKYGO,D181106154224_240303,10.32,760,760
+37,Australia/NZ 15 Days Unlimited Data(1GB/day high speed),SKYGO,D2306291709178718721,15.98,761,761
+38,Australia/NZ 15 Days Unlimited Data(2GB/day high speed),SKYGO,D2306291712016642646,15.04,762,762
+39,Australia/NZ 15 Days Unlimited Data(500MB/day high speed),SKYGO,D181105112819_233719,14,763,763
+40,Australia/NZ 20 Days Unlimited Data(1GB/day high speed),SKYGO,D2306291709529214651,13,764,764
+41,Australia/NZ 20 Days Unlimited Data(2GB/day high speed),SKYGO,D2306291712393769749,12.6,765,765
+42,Australia/NZ 20 Days Unlimited Data(500MB/day high speed),SKYGO,D190111113757_741767,12.52,766,766
+31,Australia 7 Days Unlimited Data (1GB/day high speed),SKYGO,D2206171554003619217,19.68,767,767
+32,Australia 7 Days Unlimited Data (2GB/day high speed),SKYGO,D2206301008206806855,19.32,768,768
+33,Australia 7 Days Unlimited Data (500MB/day high speed),SKYGO,D2206301003433620171,19.14,769,769
+34,Australia/NZ 10 Days Unlimited Data(1GB/day high speed),SKYGO,D2306291708463532743,18.9,770,770
+35,Australia/NZ 10 Days Unlimited Data(2GB/day high speed),SKYGO,D2306291711301626814,17.86,771,771
+36,Australia/NZ 10 Days Unlimited Data(500MB/day high speed),SKYGO,D181106154347_240308,16.92,772,772
+25,Australia 30 Days 10GB Data Package,SKYGO,D2206171556364287303,2,773,773
+26,Australia 30 Days 20GB Data Package,SKYGO,D2303231439384112818,22.88,774,774
+27,Australia 30 Days 30GB Data Package,SKYGO,D2303231438435820076,22.09,775,775
+28,Australia 5 Days Unlimited Data (1GB/day high speed),SKYGO,D2206300948041777320,21.3,776,776
+29,Australia 5 Days Unlimited Data (2GB/day high speed),SKYGO,D2206301007478243003,20.51,777,777
+30,Australia 5 Days Unlimited Data (500MB/day high speed),SKYGO,D2206301002420006728,19.73,778,778
+19,Australia 15 Days Unlimited Data (1GB/day high speed),SKYGO,D2206171554229517074,16.28,779,779
+20,Australia 15 Days Unlimited Data (2GB/day high speed),SKYGO,D2206301009258064562,14.47,780,780
+21,Australia 15 Days Unlimited Data (500MB/day high speed),SKYGO,D2206301004483242607,10.85,781,781
+22,Australia 20 Days Unlimited Data (1GB/day high speed),SKYGO,D2206300949261492986,8,782,782
+23,Australia 20 Days Unlimited Data (2GB/day high speed),SKYGO,D2206301009590507587,6,783,783
+24,Australia 20 Days Unlimited Data (500MB/day high speed),SKYGO,D2206301005330273722,4,784,784
+13,Asia 16 Destinations 8 Days Unlimited Data(1GB/day high speed),SKYGO,D2212221203579364735,27.71,785,785
+14,Asia 16 Destinations 8 Days Unlimited Data(2GB/day high speed),SKYGO,D2212221207344588124,26.08,786,786
+15,Asia 16 Destinations 8 Days Unlimited Data(500MB/day high speed),SKYGO,D2212221201272604702,23.88,787,787
+16,Australia 10 Days Unlimited Data (1GB/day high speed),SKYGO,D2206300948420419521,22.18,788,788
+17,Australia 10 Days Unlimited Data (2GB/day high speed),SKYGO,D2206301008579086831,20.47,789,789
+18,Australia 10 Days Unlimited Data (500MB/day high speed),SKYGO,D2206301004181469652,18.76,790,790
+7,Asia 16 Destinations 30 Days Unlimited Data(1GB/day high speed),SKYGO,D2212221206582387944,39.12,791,791
+8,Asia 16 Destinations 30 Days Unlimited Data(2GB/day high speed),SKYGO,D2212221209088976898,37.49,792,792
+9,Asia 16 Destinations 30 Days Unlimited Data(500MB/day high speed),SKYGO,D2212221203147022339,35.86,793,793
+10,Asia 16 Destinations 5 Days Unlimited Data(1GB/day high speed),SKYGO,D2409301751305586374,34.23,794,794
+11,Asia 16 Destinations 5 Days Unlimited Data(2GB/day high speed),SKYGO,D2409301752231044836,30.97,795,795
+12,Asia 16 Destinations 5 Days Unlimited Data(500MB/day high speed),SKYGO,D2409301750189921381,29.34,796,796
+797,SIM card,WORLDMOVE,FS-KR5GB-30,20,797,797
+798,Japan  3 Days  1GB,WORLDMOVE,eSIM-FS-JPtest-3_e,90,798,798
+799,China  Hong Kong  Macao  3 Days  1GB,WORLDMOVE,eSIM-test_e,295,799,799
+800,Japan  1 Day  1GB,WORLDMOVE,LeSIM-8090001_e,67,800,800
+801,China  Hong Kong  Macao  1 Day  1GB,WORLDMOVE,LeSIM-8090004_e,23,801,801
+802,China  Hong Kong and Macau 1.5GB per day,WORLDMOVE,FS-test_e,25,802,802
+839,Japan  6 Days  10GB,WORLDMOVE,WM-internal-test2,224,803,803
+833,Oman  7 Days  3GB  128kbps,WORLDMOVE,WM-OM-T3-7,130,804,804
+834,Bangladesh  Unlimited Data/day  10mbps,WORLDMOVE,WM-BGD-10MAX,77,805,805
+835,Bangladesh  500MB/day  128kbps,WORLDMOVE,WM-BGD-500MB,13,806,806
+836,Bangladesh  1GB/day  128kbps,WORLDMOVE,WM-BGD-1GB,16,807,807
+837,Bangladesh  2GB/day  128kbps,WORLDMOVE,WM-BGD-2GB,29,808,808
+838,Japan  3 Days  10GB,WORLDMOVE,WM-internal-test1,134,809,809
+827,BICS Europe  1 Day  10GB /day  128kbps,WORLDMOVE,WM-EU-test1,85,810,810
+828,BICS Europe  7 Days  10GB /day  128kbps,WORLDMOVE,WM-EU-test2,505,811,811
+829,Oman  1GB/day  128kbps,WORLDMOVE,WM-OM-1GB,32,812,812
+830,Oman  2GB/day  128kbps,WORLDMOVE,WM-OM-2GB,57,813,813
+831,Oman  Unlimited Data/day,WORLDMOVE,WM-OM-UL,130,814,814
+832,Oman  5 Days  3GB  128kbps,WORLDMOVE,WM-OM-T3-5,121,815,815
+821,CSL-Singapore  Malaysia  Indonesia  Thailand  3 Days  3GB,WORLDMOVE,WM-SEA-test1,50,816,816
+822,CSL-Singapore  Malaysia  Indonesia  Thailand  5 Days  3GB,WORLDMOVE,WM-SEA-test2,54,817,817
+823,CSL-Singapore  Malaysia  Indonesia  Thailand  5 Days  3GB,WORLDMOVE,WM-SEA-test3,54,818,818
+824,CSL-Singapore  Malaysia  Indonesia  Thailand  1 Day  1GB /day  128kbps,WORLDMOVE,WM-SEA-test4,27,819,819
+825,USA  3 Days  3GB  128kbps,WORLDMOVE,WM-USA-test1,76,820,820
+826,USA  5 Days  3GB  128kbps,WORLDMOVE,WM-USA-test2,81,821,821
+815,Vietnam  10 Days  500MB /Day  128kbps,WORLDMOVE,FS-VN-test3,139,822,822
+816,Vietnam  15 Days  500MB /Day  128kbps,WORLDMOVE,FS-VN-test4,201,823,823
+817,Vietnam  20 Days  500MB /Day  128kbps,WORLDMOVE,FS-VN-test5,264,824,824
+818,Vietnam  30 Days  500MB /Day  128kbps,WORLDMOVE,FS-VN-test6,389,825,825
+819,Vietnam  3 Days  500MB /Day  128kbps,WORLDMOVE,FS-VN-test7,50,826,826
+820,Vietnam  30 Days  50GB,WORLDMOVE,FS-VN-test8,952,827,827
+809,Korea  5 Days  50GB  128kbps,WORLDMOVE,FS-KR-test5,706,828,828
+810,Korea  3 Days  50GB  128kbps,WORLDMOVE,FS-KR-test6,661,829,829
+811,Korea  3 Days  500MB /day  128kbps,WORLDMOVE,FS-KR-test7,41,830,830
+812,Korea  1 Day  500MB /day  128kbps,WORLDMOVE,FS-KR-test8,23,831,831
+813,Vietnam  5 Days  500MB /Day  128kbps,WORLDMOVE,FS-VN-test1,76,832,832
+814,Vietnam  7 Days  500MB /Day  128kbps,WORLDMOVE,FS-VN-test2,103,833,833
+803,China  Hong Kong and Macau 5-day 1GB,WORLDMOVE,FS-CHM-5-1GB_e,31,834,834
+804,Taiwan 5M per day,WORLDMOVE,WM_000007,40,835,835
+805,Korea  30 Days  50GB  128kbps,WORLDMOVE,FS-KR-test1,885,836,836
+806,Korea  15 Days  50GB  128kbps,WORLDMOVE,FS-KR-test2,840,837,837
+807,Korea  10 Days  50GB  128kbps,WORLDMOVE,FS-KR-test3,795,838,838
+808,Korea  7 Days  50GB  128kbps,WORLDMOVE,FS-KR-test4,751,839,839

@@ -1,0 +1,593 @@
+﻿<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{1568E228-F217-45EE-BC5A-FAF939DF13ED}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GenericAPP</RootNamespace>
+    <AssemblyName>GenericAPP</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DocumentFormat.OpenXml, Version=3.3.0.0, Culture=neutral, PublicKeyToken=8fb06cb64d019a17, processorArchitecture=MSIL">
+      <HintPath>..\packages\DocumentFormat.OpenXml.3.3.0\lib\net46\DocumentFormat.OpenXml.dll</HintPath>
+    </Reference>
+    <Reference Include="DocumentFormat.OpenXml.Framework, Version=3.3.0.0, Culture=neutral, PublicKeyToken=8fb06cb64d019a17, processorArchitecture=MSIL">
+      <HintPath>..\packages\DocumentFormat.OpenXml.Framework.3.3.0\lib\net46\DocumentFormat.OpenXml.Framework.dll</HintPath>
+    </Reference>
+    <Reference Include="EPPlus, Version=8.0.8.0, Culture=neutral, PublicKeyToken=ea159fdaa78159a1, processorArchitecture=MSIL">
+      <HintPath>..\packages\EPPlus.8.0.8\lib\net462\EPPlus.dll</HintPath>
+    </Reference>
+    <Reference Include="EPPlus.Interfaces, Version=8.0.0.0, Culture=neutral, PublicKeyToken=a694d7f3b0907a61, processorArchitecture=MSIL">
+      <HintPath>..\packages\EPPlus.Interfaces.8.0.0\lib\net462\EPPlus.Interfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.IO.RecyclableMemoryStream, Version=3.0.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.IO.RecyclableMemoryStream.3.0.1\lib\netstandard2.0\Microsoft.IO.RecyclableMemoryStream.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="QRCoder, Version=1.6.0.0, Culture=neutral, PublicKeyToken=c4ed5b9ae8358a28, processorArchitecture=MSIL">
+      <HintPath>..\packages\QRCoder.1.6.0\lib\net40\QRCoder.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.Annotations, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ComponentModel.Annotations.5.0.0\lib\net461\System.ComponentModel.Annotations.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.5\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=4.0.4.1, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.4.5.3\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security" />
+    <Reference Include="System.Security.Cryptography.Xml, Version=8.0.0.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Cryptography.Xml.8.0.2\lib\net462\System.Security.Cryptography.Xml.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ActivateSim.aspx" />
+    <Content Include="ActivationReport.aspx" />
+    <Content Include="AddDealer.aspx" />
+    <Content Include="AddFund.aspx" />
+    <Content Include="AddNewSim.aspx" />
+    <Content Include="AddTariffGroup.aspx" />
+    <Content Include="AddUser.aspx" />
+    <Content Include="AtoZReports.aspx" />
+    <Content Include="CheckStatus.aspx" />
+    <Content Include="CustomerList.aspx" />
+    <Content Include="Dashboard.aspx" />
+    <Content Include="DealerList.aspx" />
+    <Content Include="Design\assets\css\demo.css" />
+    <Content Include="Design\assets\img\avatars\1.png" />
+    <Content Include="Design\assets\img\avatars\5.png" />
+    <Content Include="Design\assets\img\avatars\6.png" />
+    <Content Include="Design\assets\img\avatars\7.png" />
+    <Content Include="Design\assets\img\backgrounds\18.jpg" />
+    <Content Include="Design\assets\img\ComingSoon.jpg" />
+    <Content Include="Design\assets\img\elements\1.jpg" />
+    <Content Include="Design\assets\img\elements\11.jpg" />
+    <Content Include="Design\assets\img\elements\12.jpg" />
+    <Content Include="Design\assets\img\elements\13.jpg" />
+    <Content Include="Design\assets\img\elements\17.jpg" />
+    <Content Include="Design\assets\img\elements\18.jpg" />
+    <Content Include="Design\assets\img\elements\19.jpg" />
+    <Content Include="Design\assets\img\elements\2.jpg" />
+    <Content Include="Design\assets\img\elements\20.jpg" />
+    <Content Include="Design\assets\img\elements\3.jpg" />
+    <Content Include="Design\assets\img\elements\4.jpg" />
+    <Content Include="Design\assets\img\elements\5.jpg" />
+    <Content Include="Design\assets\img\elements\7.jpg" />
+    <Content Include="Design\assets\img\expresscheckout_buttons.png" />
+    <Content Include="Design\assets\img\favicon\favicon.ico" />
+    <Content Include="Design\assets\img\icons\brands\asana.png" />
+    <Content Include="Design\assets\img\icons\brands\behance.png" />
+    <Content Include="Design\assets\img\icons\brands\dribbble.png" />
+    <Content Include="Design\assets\img\icons\brands\facebook.png" />
+    <Content Include="Design\assets\img\icons\brands\github.png" />
+    <Content Include="Design\assets\img\icons\brands\google.png" />
+    <Content Include="Design\assets\img\icons\brands\instagram.png" />
+    <Content Include="Design\assets\img\icons\brands\mailchimp.png" />
+    <Content Include="Design\assets\img\icons\brands\slack.png" />
+    <Content Include="Design\assets\img\icons\brands\twitter.png" />
+    <Content Include="Design\assets\img\icons\unicons\cc-primary.png" />
+    <Content Include="Design\assets\img\icons\unicons\cc-success.png" />
+    <Content Include="Design\assets\img\icons\unicons\cc-warning.png" />
+    <Content Include="Design\assets\img\icons\unicons\chart-success.png" />
+    <Content Include="Design\assets\img\icons\unicons\chart.png" />
+    <Content Include="Design\assets\img\icons\unicons\paypal.png" />
+    <Content Include="Design\assets\img\icons\unicons\wallet-info.png" />
+    <Content Include="Design\assets\img\icons\unicons\wallet.png" />
+    <Content Include="Design\assets\img\illustrations\girl-doing-yoga-light.png" />
+    <Content Include="Design\assets\img\illustrations\man-with-laptop-light.png" />
+    <Content Include="Design\assets\img\illustrations\page-misc-error-light.png" />
+    <Content Include="Design\assets\img\layouts\layout-container-light.png" />
+    <Content Include="Design\assets\img\layouts\layout-fluid-light.png" />
+    <Content Include="Design\assets\img\layouts\layout-without-menu-light.png" />
+    <Content Include="Design\assets\img\layouts\layout-without-navbar-light.png" />
+    <Content Include="Design\assets\img\Logo.png" />
+    <Content Include="Design\assets\js\config.js" />
+    <Content Include="Design\assets\js\dashboards-analytics.js" />
+    <Content Include="Design\assets\js\extended-ui-perfect-scrollbar.js" />
+    <Content Include="Design\assets\js\form-basic-inputs.js" />
+    <Content Include="Design\assets\js\main.js" />
+    <Content Include="Design\assets\js\pages-account-settings-account.js" />
+    <Content Include="Design\assets\js\ui-modals.js" />
+    <Content Include="Design\assets\js\ui-popover.js" />
+    <Content Include="Design\assets\js\ui-toasts.js" />
+    <Content Include="Design\assets\vendor\css\core.css" />
+    <Content Include="Design\assets\vendor\css\pages\page-account-settings.css" />
+    <Content Include="Design\assets\vendor\css\pages\page-auth.css" />
+    <Content Include="Design\assets\vendor\css\pages\page-icons.css" />
+    <Content Include="Design\assets\vendor\css\pages\page-misc.css" />
+    <Content Include="Design\assets\vendor\css\theme-default.css" />
+    <Content Include="Design\assets\vendor\fonts\boxicons.css" />
+    <Content Include="Design\assets\vendor\fonts\boxicons\boxicons.svg" />
+    <Content Include="Design\assets\vendor\js\bootstrap.js" />
+    <Content Include="Design\assets\vendor\js\helpers.js" />
+    <Content Include="Design\assets\vendor\js\menu.js" />
+    <Content Include="Design\assets\vendor\libs\apex-charts\apex-charts.css" />
+    <Content Include="Design\assets\vendor\libs\apex-charts\apexcharts.js" />
+    <Content Include="Design\assets\vendor\libs\highlight\highlight-github.css" />
+    <Content Include="Design\assets\vendor\libs\highlight\highlight.css" />
+    <Content Include="Design\assets\vendor\libs\highlight\highlight.js" />
+    <Content Include="Design\assets\vendor\libs\jquery\jquery.js" />
+    <Content Include="Design\assets\vendor\libs\masonry\masonry.js" />
+    <Content Include="Design\assets\vendor\libs\perfect-scrollbar\perfect-scrollbar.css" />
+    <Content Include="Design\assets\vendor\libs\perfect-scrollbar\perfect-scrollbar.js" />
+    <Content Include="Design\assets\vendor\libs\popper\popper.js" />
+    <Content Include="Design\EmailTemplates\DealerCreateEmail.html" />
+    <Content Include="Design\EmailTemplates\eSimActivationEmail.html" />
+    <Content Include="Design\EmailTemplates\ForgotPassword.html" />
+    <Content Include="Design\EmailTemplates\pSimActivationEmail.html" />
+    <Content Include="Design\EmailTemplates\qR.jpg" />
+    <Content Include="Design\EmailTemplates\UserCreateEmail.html" />
+    <Content Include="Design\js\bootstrap.js" />
+    <Content Include="Design\js\helpers.js" />
+    <Content Include="Design\js\menu.js" />
+    <Content Include="Design\libs\apex-charts\apexcharts.js" />
+    <Content Include="Design\libs\highlight\highlight.js" />
+    <Content Include="Design\libs\jquery\jquery.js" />
+    <Content Include="Design\libs\masonry\masonry.js" />
+    <Content Include="Design\libs\perfect-scrollbar\perfect-scrollbar.js" />
+    <Content Include="Design\libs\popper\popper.js" />
+    <Content Include="Design\tasks\build.js" />
+    <Content Include="Design\tasks\prod.js" />
+    <Content Include="Extension.aspx" />
+    <Content Include="ExtensionReports.aspx" />
+    <Content Include="Forgot.aspx" />
+    <Content Include="ForgotPassword.aspx" />
+    <Content Include="FutureActivationReports.aspx" />
+    <Content Include="Global.asax" />
+    <Content Include="Login.aspx" />
+    <Content Include="LoginHistoryReport.aspx" />
+    <Content Include="Logout.aspx" />
+    <Content Include="PaymentHistoryReport.aspx" />
+    <Content Include="Print.aspx" />
+    <Content Include="PurchaseSims.aspx" />
+    <Content Include="SimList.aspx" />
+    <Content Include="TariffGroupList.aspx" />
+    <Content Include="UserList.aspx" />
+    <Content Include="ViewTariffGroup.aspx" />
+    <Content Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ActivateSim.aspx.cs">
+      <DependentUpon>ActivateSim.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ActivateSim.aspx.designer.cs">
+      <DependentUpon>ActivateSim.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ActivationReport.aspx.cs">
+      <DependentUpon>ActivationReport.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ActivationReport.aspx.designer.cs">
+      <DependentUpon>ActivationReport.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AddDealer.aspx.cs">
+      <DependentUpon>AddDealer.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AddDealer.aspx.designer.cs">
+      <DependentUpon>AddDealer.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AddFund.aspx.cs">
+      <DependentUpon>AddFund.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AddFund.aspx.designer.cs">
+      <DependentUpon>AddFund.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AddNewSim.aspx.cs">
+      <DependentUpon>AddNewSim.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AddNewSim.aspx.designer.cs">
+      <DependentUpon>AddNewSim.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AddTariffGroup.aspx.cs">
+      <DependentUpon>AddTariffGroup.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AddTariffGroup.aspx.designer.cs">
+      <DependentUpon>AddTariffGroup.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AddUser.aspx.cs">
+      <DependentUpon>AddUser.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AddUser.aspx.designer.cs">
+      <DependentUpon>AddUser.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AtoZReports.aspx.cs">
+      <DependentUpon>AtoZReports.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AtoZReports.aspx.designer.cs">
+      <DependentUpon>AtoZReports.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CheckStatus.aspx.cs">
+      <DependentUpon>CheckStatus.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CheckStatus.aspx.designer.cs">
+      <DependentUpon>CheckStatus.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerList.aspx.cs">
+      <DependentUpon>CustomerList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CustomerList.aspx.designer.cs">
+      <DependentUpon>CustomerList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Dashboard.aspx.cs">
+      <DependentUpon>Dashboard.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Dashboard.aspx.designer.cs">
+      <DependentUpon>Dashboard.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DealerList.aspx.cs">
+      <DependentUpon>DealerList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DealerList.aspx.designer.cs">
+      <DependentUpon>DealerList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Extension.aspx.cs">
+      <DependentUpon>Extension.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Extension.aspx.designer.cs">
+      <DependentUpon>Extension.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ExtensionReports.aspx.cs">
+      <DependentUpon>ExtensionReports.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ExtensionReports.aspx.designer.cs">
+      <DependentUpon>ExtensionReports.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Forgot.aspx.cs">
+      <DependentUpon>Forgot.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Forgot.aspx.designer.cs">
+      <DependentUpon>Forgot.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ForgotPassword.aspx.cs">
+      <DependentUpon>ForgotPassword.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ForgotPassword.aspx.designer.cs">
+      <DependentUpon>ForgotPassword.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FutureActivationReports.aspx.cs">
+      <DependentUpon>FutureActivationReports.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FutureActivationReports.aspx.designer.cs">
+      <DependentUpon>FutureActivationReports.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LoginHistoryReport.aspx.cs">
+      <DependentUpon>LoginHistoryReport.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LoginHistoryReport.aspx.designer.cs">
+      <DependentUpon>LoginHistoryReport.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Logout.aspx.cs">
+      <DependentUpon>Logout.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Logout.aspx.designer.cs">
+      <DependentUpon>Logout.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Main.Master.cs">
+      <DependentUpon>Main.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Main.Master.designer.cs">
+      <DependentUpon>Main.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Models\cGeneral.cs" />
+    <Compile Include="Models\GenricDTO.cs" />
+    <Compile Include="PaymentHistoryReport.aspx.cs">
+      <DependentUpon>PaymentHistoryReport.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PaymentHistoryReport.aspx.designer.cs">
+      <DependentUpon>PaymentHistoryReport.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Print.aspx.cs">
+      <DependentUpon>Print.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Print.aspx.designer.cs">
+      <DependentUpon>Print.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PurchaseSims.aspx.cs">
+      <DependentUpon>PurchaseSims.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PurchaseSims.aspx.designer.cs">
+      <DependentUpon>PurchaseSims.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SimList.aspx.cs">
+      <DependentUpon>SimList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SimList.aspx.designer.cs">
+      <DependentUpon>SimList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="TariffGroupList.aspx.cs">
+      <DependentUpon>TariffGroupList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TariffGroupList.aspx.designer.cs">
+      <DependentUpon>TariffGroupList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UserList.aspx.cs">
+      <DependentUpon>UserList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserList.aspx.designer.cs">
+      <DependentUpon>UserList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ViewTariffGroup.aspx.cs">
+      <DependentUpon>ViewTariffGroup.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ViewTariffGroup.aspx.designer.cs">
+      <DependentUpon>ViewTariffGroup.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Design\assets\vendor\fonts\boxicons\boxicons.eot" />
+    <Content Include="Design\assets\vendor\fonts\boxicons\boxicons.ttf" />
+    <Content Include="Design\assets\vendor\fonts\boxicons\boxicons.woff" />
+    <Content Include="Design\assets\vendor\fonts\boxicons\boxicons.woff2" />
+    <Content Include="Design\fonts\boxicons.scss" />
+    <Content Include="Design\libs\apex-charts\apex-charts.scss" />
+    <Content Include="Design\libs\highlight\highlight-github.scss" />
+    <Content Include="Design\libs\highlight\highlight.scss" />
+    <Content Include="Design\libs\perfect-scrollbar\perfect-scrollbar.scss" />
+    <Content Include="Main.Master" />
+    <Content Include="Design\scss\core.scss" />
+    <Content Include="Design\scss\pages\page-account-settings.scss" />
+    <Content Include="Design\scss\pages\page-auth.scss" />
+    <Content Include="Design\scss\pages\page-icons.scss" />
+    <Content Include="Design\scss\pages\page-misc.scss" />
+    <Content Include="Design\scss\theme-default.scss" />
+    <Content Include="Design\scss\_bootstrap-extended.scss" />
+    <Content Include="Design\scss\_bootstrap-extended\forms\_floating-labels.scss" />
+    <Content Include="Design\scss\_bootstrap-extended\forms\_form-control.scss" />
+    <Content Include="Design\scss\_bootstrap-extended\forms\_form-range.scss" />
+    <Content Include="Design\scss\_bootstrap-extended\forms\_form-select.scss" />
+    <Content Include="Design\scss\_bootstrap-extended\forms\_input-group.scss" />
+    <Content Include="Design\scss\_bootstrap-extended\forms\_labels.scss" />
+    <Content Include="Design\scss\_bootstrap-extended\forms\_validation.scss" />
+    <Content Include="Design\scss\_bootstrap-extended\mixins\_alert.scss" />
+    <Content Include="Design\scss\_bootstrap-extended\mixins\_badge.scss" />
+    <Content Include="Design\scss\_bootstrap-extended\mixins\_buttons.scss" />
+    <Content Include="Design\scss\_bootstrap-extended\mixins\_caret.scss" />
+    <Content Include="Design\scss\_bootstrap-extended\mixins\_dropdown.scss" />
+    <Content Include="Design\scss\_bootstrap-extended\mixins\_forms.scss" />
+    <Content Include="Design\scss\_bootstrap-extended\mixins\_list-group.scss" />
+    <Content Include="Design\scss\_bootstrap-extended\mixins\_misc.scss" />
+    <Content Include="Design\scss\_bootstrap-extended\mixins\_navs.scss" />
+    <Content Include="Design\scss\_bootstrap-extended\mixins\_pagination.scss" />
+    <Content Include="Design\scss\_bootstrap-extended\mixins\_progress.scss" />
+    <Content Include="Design\scss\_bootstrap-extended\mixins\_table-variants.scss" />
+    <Content Include="Design\scss\_bootstrap-extended\mixins\_toasts.scss" />
+    <Content Include="Design\scss\_bootstrap-extended\_accordion.scss" />
+    <Content Include="Design\scss\_bootstrap-extended\_alert.scss" />
+    <Content Include="Design\scss\_bootstrap-extended\_badge.scss" />
+    <Content Include="Design\scss\_bootstrap-extended\_breadcrumb.scss" />
+    <Content Include="Design\scss\_bootstrap-extended\_button-group.scss" />
+    <Content Include="Design\scss\_bootstrap-extended\_buttons.scss" />
+    <Content Include="Design\scss\_bootstrap-extended\_card.scss" />
+    <Content Include="Design\scss\_bootstrap-extended\_carousel.scss" />
+    <Content Include="Design\scss\_bootstrap-extended\_close.scss" />
+    <Content Include="Design\scss\_bootstrap-extended\_dropdown.scss" />
+    <Content Include="Design\scss\_bootstrap-extended\_forms.scss" />
+    <Content Include="Design\scss\_bootstrap-extended\_functions.scss" />
+    <Content Include="Design\scss\_bootstrap-extended\_include.scss" />
+    <Content Include="Design\scss\_bootstrap-extended\_list-group.scss" />
+    <Content Include="Design\scss\_bootstrap-extended\_mixins.scss" />
+    <Content Include="Design\scss\_bootstrap-extended\_modal.scss" />
+    <Content Include="Design\scss\_bootstrap-extended\_nav.scss" />
+    <Content Include="Design\scss\_bootstrap-extended\_navbar.scss" />
+    <Content Include="Design\scss\_bootstrap-extended\_offcanvas.scss" />
+    <Content Include="Design\scss\_bootstrap-extended\_pagination.scss" />
+    <Content Include="Design\scss\_bootstrap-extended\_popover.scss" />
+    <Content Include="Design\scss\_bootstrap-extended\_progress.scss" />
+    <Content Include="Design\scss\_bootstrap-extended\_reboot.scss" />
+    <Content Include="Design\scss\_bootstrap-extended\_root.scss" />
+    <Content Include="Design\scss\_bootstrap-extended\_spinners.scss" />
+    <Content Include="Design\scss\_bootstrap-extended\_tables.scss" />
+    <Content Include="Design\scss\_bootstrap-extended\_toasts.scss" />
+    <Content Include="Design\scss\_bootstrap-extended\_tooltip.scss" />
+    <Content Include="Design\scss\_bootstrap-extended\_type.scss" />
+    <Content Include="Design\scss\_bootstrap-extended\_utilities-ltr.scss" />
+    <Content Include="Design\scss\_bootstrap-extended\_utilities.scss" />
+    <Content Include="Design\scss\_bootstrap-extended\_variables.scss" />
+    <Content Include="Design\scss\_bootstrap.scss" />
+    <Content Include="Design\scss\_colors.scss" />
+    <Content Include="Design\scss\_components.scss" />
+    <Content Include="Design\scss\_components\mixins\_app-brand.scss" />
+    <Content Include="Design\scss\_components\mixins\_avatar.scss" />
+    <Content Include="Design\scss\_components\mixins\_footer.scss" />
+    <Content Include="Design\scss\_components\mixins\_menu.scss" />
+    <Content Include="Design\scss\_components\mixins\_misc.scss" />
+    <Content Include="Design\scss\_components\mixins\_navbar.scss" />
+    <Content Include="Design\scss\_components\mixins\_text-divider.scss" />
+    <Content Include="Design\scss\_components\_app-brand.scss" />
+    <Content Include="Design\scss\_components\_avatar.scss" />
+    <Content Include="Design\scss\_components\_base.scss" />
+    <Content Include="Design\scss\_components\_common.scss" />
+    <Content Include="Design\scss\_components\_footer.scss" />
+    <Content Include="Design\scss\_components\_include.scss" />
+    <Content Include="Design\scss\_components\_layout.scss" />
+    <Content Include="Design\scss\_components\_menu.scss" />
+    <Content Include="Design\scss\_components\_mixins.scss" />
+    <Content Include="Design\scss\_components\_text-divider.scss" />
+    <Content Include="Design\scss\_components\_variables.scss" />
+    <Content Include="Design\scss\_custom-variables\_bootstrap-extended.scss" />
+    <Content Include="Design\scss\_custom-variables\_components.scss" />
+    <Content Include="Design\scss\_custom-variables\_libs.scss" />
+    <Content Include="Design\scss\_custom-variables\_pages.scss" />
+    <Content Include="Design\scss\_custom-variables\_support.scss" />
+    <Content Include="Design\scss\_theme\_common.scss" />
+    <Content Include="Design\scss\_theme\_theme.scss" />
+    <Content Include="Design\Format\BlankSimFormat.csv" />
+    <None Include="packages.config" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+    <Folder Include="Design\InventoryFiles\" />
+    <Folder Include="Design\PlanListFiles\" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>56976</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:56976/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

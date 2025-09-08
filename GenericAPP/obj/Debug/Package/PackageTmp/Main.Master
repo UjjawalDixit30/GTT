@@ -1,0 +1,243 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Main.master.cs" Inherits="GenericAPP.Main" %>
+
+<!DOCTYPE html>
+<html>
+<head runat="server">
+    <meta charset="utf-8" />
+    <title>Global Travel Telecom</title>
+    <meta name="description" content="" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0" />
+    <link rel="stylesheet" href="design/fonts/boxicons.scss" />
+    <link href="https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="Design/assets/css/demo.css" />
+    <link rel="stylesheet" href="Design/assets/vendor/fonts/boxicons.css" />
+    <link rel="stylesheet" href="Design/assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.css" />
+    <link rel="stylesheet" href="Design/assets/vendor/css/core.css" class="template-customizer-core-css" />
+    <link rel="stylesheet" href="Design/assets/vendor/css/theme-default.css" class="template-customizer-theme-css" />
+
+    <script src="Design/assets/js/config.js"></script>
+    <script src="Design/assets/vendor/js/helpers.js"></script>
+    <script src="Design/assets/js/dashboards-analytics.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/@mdi/font@7.2.96/css/materialdesignicons.min.css" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <script>
+        $(document).on('keydown', '.numeric', function (e) {
+            var a = e.key;
+            if (a.length == 1) return /[0-9]/.test(a);
+            return true;
+        })
+        $(document).on('keydown', '.decimal', function (e) {
+            var a = e.key;
+            if (a.length == 1) return /[0-9]|[.]/.test(a);
+            return true;
+        })
+    </script>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="layout-wrapper layout-content-navbar">
+            <div class="layout-container">
+                <aside id="layout-menu" class="layout-menu menu-vertical menu bg-menu-theme">
+                    <div class="app-brand demo">
+                        <a href="index.html" class="app-brand-link">
+                            <span class="app-brand-logo demo">
+                                <img src="design/assets/img/Logo.png" />
+                            </span>
+                            <span class="app-brand-text demo menu-text fw-bolder ms-2">Sneat</span>
+                        </a>
+                        <a href="javascript:void(0);" class="layout-menu-toggle menu-link text-large ms-auto d-block d-xl-none">
+                            <i class="bx bx-chevron-left bx-sm align-middle"></i>
+                        </a>
+                    </div>
+                    <div class="menu-inner-shadow"></div>
+                    <ul class="menu-inner py-1">
+                        <li class="menu-item active">
+                            <a href="Dashboard.aspx" class="menu-link">
+                                <i class="menu-icon tf-icons bx bx-home-circle"></i>
+                                <div data-i18n="Analytics">Dashboard</div>
+                            </a>
+                        </li>
+                        <li class="menu-item">
+                            <a href="javascript:void(0);" class="menu-link menu-toggle">
+                                <i class="menu-icon tf-icons bx bx-user"></i>
+                                <div data-i18n="Analytics">Admin</div>
+                            </a>
+                            <ul class="menu-sub">
+                                <li class="menu-item">
+                                    <a href="DealerList.aspx" class="menu-link">
+                                        <div data-i18n="Analytics">Dealers</div>
+                                    </a>
+                                </li>
+                                <li class="menu-item">
+                                    <a href="UserList.aspx" class="menu-link">
+                                        <div data-i18n="Analytics">Users</div>
+                                    </a>
+                                </li>
+                                <li class="menu-item">
+                                    <a href="CustomerList.aspx" class="menu-link">
+                                        <div data-i18n="Analytics">Customers</div>
+                                    </a>
+                                </li>
+                                <li class="menu-item">
+                                    <a href="AddFund.aspx" class="menu-link">
+                                        <div data-i18n="Analytics">Add Fund</div>
+                                    </a>
+                                </li>
+                                <li class="menu-item">
+                                    <a href="PaymentHistoryReport.aspx" class="menu-link">
+                                        <div data-i18n="Analytics">Payment History</div>
+                                    </a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="menu-item">
+                            <a href="javascript:void(0);" class="menu-link menu-toggle">
+                                <i class="menu-icon tf-icons bx bx-dock-top"></i>
+                                <div data-i18n="Analytics">Inventory</div>
+                            </a>
+                            <ul class="menu-sub">
+                                <li class="menu-item">
+                                    <a href="PurchaseSims.aspx" class="menu-link">
+                                        <div data-i18n="Analytics">Purchase Sims</div>
+                                    </a>
+                                </li>
+                                <li class="menu-item">
+                                    <a href="SimList.aspx" class="menu-link">
+                                        <div data-i18n="Analytics">Sims</div>
+                                    </a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="menu-item">
+                            <a href="TariffGroupList.aspx" class="menu-link">
+                                <i class="menu-icon tf-icons bx bx-crown"></i>
+                                <div data-i18n="Analytics">Tariff Groups</div>
+                            </a>
+                        </li>
+                        <li class="menu-item">
+                            <a href="ActivateSim.aspx" class="menu-link">
+                                <i class="menu-icon tf-icons bx bx-crown"></i>
+                                <div data-i18n="Analytics">Activation</div>
+                            </a>
+                        </li>
+                        <li class="menu-item">
+                            <a href="Extension.aspx" class="menu-link">
+                                <i class="menu-icon tf-icons bx bx-crown"></i>
+                                <div data-i18n="Analytics">Recharge</div>
+                            </a>
+                        </li>
+                        <li class="menu-item">
+                            <a href="CheckStatus.aspx" class="menu-link">
+                                <i class="menu-icon tf-icons bx bx-crown"></i>
+                                <div data-i18n="Analytics">Check Status</div>
+                            </a>
+                        </li>
+                        <li class="menu-item">
+                            <a href="javascript:void(0);" class="menu-link menu-toggle">
+                                <i class="menu-icon tf-icons bx bx-cube-alt"></i>
+                                <div data-i18n="Analytics">Reports</div>
+                            </a>
+                            <ul class="menu-sub">
+                                <li class="menu-item">
+                                    <a href="LoginHistoryReport.aspx" class="menu-link">
+                                        <div data-i18n="Analytics">Login Reports</div>
+                                    </a>
+                                </li>
+                                <li class="menu-item">
+                                    <a href="ActivationReport.aspx" class="menu-link">
+                                        <div data-i18n="Analytics">Activation Reports</div>
+                                    </a>
+                                </li>
+                                <li class="menu-item">
+                                    <a href="FutureActivationReports.aspx" class="menu-link">
+                                        <div data-i18n="Analytics">Future Activation Reports</div>
+                                    </a>
+                                </li>
+                                <li class="menu-item">
+                                    <a href="ExtensionReports.aspx" class="menu-link">
+                                        <div data-i18n="Analytics">Extension Reports</div>
+                                    </a>
+                                </li>
+                                <li class="menu-item">
+                                    <a href="AtoZReports.aspx" class="menu-link">
+                                        <div data-i18n="Analytics">A to Z Reports</div>
+                                    </a>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </aside>
+                <div class="layout-page">
+                    <nav class="layout-navbar container-xxl navbar navbar-expand-xl navbar-detached align-items-center bg-navbar-theme" id="layout-navbar">
+                        <div class="layout-menu-toggle navbar-nav align-items-xl-center me-3 me-xl-0 d-xl-none">
+                            <a class="nav-item nav-link px-0 me-xl-4" href="javascript:void(0)">
+                                <i class="bx bx-menu bx-sm"></i>
+                            </a>
+                        </div>
+                        <div class="navbar-nav-right d-flex align-items-center" id="navbar-collapse">
+                            <div class="navbar-nav align-items-center">
+                                <div class="nav-item d-flex align-items-center">
+                                    <i class="bx bx-search fs-4 lh-0"></i>
+                                    <input type="text" class="form-control border-0 shadow-none" placeholder="Search..." aria-label="Search..." />
+                                </div>
+                            </div>
+                            <ul class="navbar-nav flex-row align-items-center ms-auto">
+                                <li class="nav-item navbar-dropdown dropdown-user dropdown">
+                                    <a class="nav-link dropdown-toggle hide-arrow" href="javascript:void(0);" data-bs-toggle="dropdown">
+                                        <div class="avatar avatar-online">
+                                            <img src="Design/assets/img/avatars/1.png" class="w-px-40 h-auto rounded-circle" />
+                                        </div>
+                                    </a>
+                                    <ul class="dropdown-menu dropdown-menu-end">
+                                        <li>
+                                            <a class="dropdown-item" href="#">
+                                                <div class="d-flex">
+                                                    <div class="flex-shrink-0 me-3">
+                                                        <div class="avatar avatar-online">
+                                                            <img src="Design/assets/img/avatars/1.png" class="w-px-40 h-auto rounded-circle" />
+                                                        </div>
+                                                    </div>
+                                                    <div class="flex-grow-1">
+                                                        <span class="fw-semibold d-block" runat="server" id="spnDealerName"></span>
+                                                        <small class="text-muted" id="spnRole" runat="server"></small>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <div class="dropdown-divider"></div>
+                                        </li>
+                                        <li>
+                                            <a class="dropdown-item" href="Logout.aspx">
+                                                <i class="bx bx-power-off me-2"></i>
+                                                <span class="align-middle">Log Out</span>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </div>
+                    </nav>
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </div>
+            </div>
+            <div class="layout-overlay layout-menu-toggle"></div>
+        </div>
+        <script src="Design/assets/vendor/libs/jquery/jquery.js"></script>
+        <script src="Design/assets/vendor/libs/popper/popper.js"></script>
+        <script src="Design/assets/vendor/js/bootstrap.js"></script>
+        <script src="Design/assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.js"></script>
+        <script src="Design/assets/vendor/js/menu.js"></script>
+        <script src="Design/assets/vendor/libs/apex-charts/apexcharts.js"></script>
+        <script src="Design/assets/js/main.js"></script>
+        <script src="Design/assets/js/dashboards-analytics.js"></script>
+    </form>
+</body>
+</html>
