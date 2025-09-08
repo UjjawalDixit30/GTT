@@ -13,7 +13,7 @@
                             <label for="ddlNetwork" class="form-label">Network<span class="text-danger">*</span></label>
                             <div class="input-group input-group-merge">
                                 <asp:DropDownList ID="ddlNetwork" CssClass="form-select" runat="server">
-                                </asp:DropDownList> test
+                                </asp:DropDownList>
                             </div>
                         </div>
                         <div class="col-md-3" style="margin-top: 15px;">
